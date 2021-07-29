@@ -1,1 +1,1 @@
-# Data-Structures-and-Algorithms-Analysis-and-Design-Training
+# Data Structures and Algorithms Analysis and Design Training
