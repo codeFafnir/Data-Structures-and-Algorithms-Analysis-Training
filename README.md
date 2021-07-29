@@ -15,6 +15,7 @@ Data Structures and Algorithms Analysis Training for computer science students.
 
 ### `Discrete Mathematics` Lectures
 
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/discrete-mathematics.jpg">
 <img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
 ### `Module 1` Proofs and Structures
@@ -25,6 +26,7 @@ Data Structures and Algorithms Analysis Training for computer science students.
 #### `Lecture 05` - [Number Theory](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
 #### `Lecture 06` - [Induction and Recursion](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
 
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/discrete-mathematics.jpg">
 <img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
 ### `Module 2` Graphs and Trees
