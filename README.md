@@ -39,6 +39,7 @@ Data Structures and Algorithms Analysis Training for computer science students.
 
 ### `Data Structures` Lectures
 
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg">
 <img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
 ### `Module 1` Linear Data Structures
@@ -50,6 +51,7 @@ Data Structures and Algorithms Analysis Training for computer science students.
 #### `Lecture 06` - [Deque](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
 #### `Lecture 07` - [Built-in Linear Data Structures](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
 
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg">
 <img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
 ### `Module 2` Non-Linear Data Structures
@@ -63,6 +65,7 @@ Data Structures and Algorithms Analysis Training for computer science students.
 
 ### `Algorithms Analysis` Lectures
 
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg">
 <img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
 ### `Module 1` Basic Algorithms
@@ -73,6 +76,7 @@ Data Structures and Algorithms Analysis Training for computer science students.
 #### `Lecture 05` - [Divide and Conquer](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
 #### `Lecture 06` - [Transform and Conquer](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
 
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg">
 <img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
 ### `Module 2` Graph Algorithms and Dynamic Programming
@@ -129,23 +133,23 @@ Data Structures and Algorithms Analysis Training for computer science students.
 
 |`Project 01` | `Project 02` | `Project 03` | `Project 04` |
 |:----:|:----:|:----:|:----:|
-| [Tic Tac Toe Game](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) | [Connect Four Game](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) | [Gomoku Game](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) | [8 Puzzle Game](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) |
-|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/tic-tac-toe-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/connect-four-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/gomoku-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/8-puzzle-game.jpg">|
+| [Equation Solver](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) | [Zuma Game](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) | [Snake Game](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) | [Ball Sort Game](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) |
+|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/equation-solver.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/zuma-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/snake-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/ball-sort-game.jpg">|
 
 |`Project 05` | `Project 06` | `Project 07` | `Project 08` |
 |:----:|:----:|:----:|:----:|
-| [SOS Game](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) | [Dots and Boxes Game](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) | [Snakes and Ladders Game](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) | [Sudoku Game](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) |
-|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/sos-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/dots-and-boxes-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/snakes-and-ladders-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/sudoku-game.jpg">|
+| [Merge Block Game](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) | [Word Search Game](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) | [Hangman Game](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) | [Bingo Game](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) |
+|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/merge-block-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/word-search-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/hangman-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/bingo-game.jpg">|
 
 |`Project 09` | `Project 10` | `Project 11` | `Project 12` |
 |:----:|:----:|:----:|:----:|
-| [Match Cards Game](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) | [Reversi Game](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) | [Draughts Game](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) | [Minesweeper Game](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) |
-|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/match-cards-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/reversi-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/draughts-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/minesweeper-game.jpg">|
+| [Dice Magic Game](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) | [Merge Wood Game](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) | [Garam Game](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) | [Mills Game](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) |
+|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/dice-magic-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/merge-wood-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/garam-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/mills-game.jpg">|
 
 |`Project 13` | `Project 14` | `Project 15` | `Project 16` |
 |:----:|:----:|:----:|:----:|
-| [2048 Game](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) | [Ultimate Tic Tac Toe Game](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) | [Battleship Game](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) | [Multi Sudoku Game](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) |
-|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/2048-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/ultimate-tic-tac-toe-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/battleship-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/multi-sudoku-game.jpg">|
+| [Blokus Game](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) | [Blockudoku Game](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) | [Cube Block Game](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) | [Dropdom Game](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) |
+|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/blokus-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/blockudoku-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cube-block-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/dropdom-game.jpg">|
 
 |`Project 17` | `Project 18` | `Project 19` | `Project 20` |
 |:----:|:----:|:----:|:----:|
@@ -154,8 +158,8 @@ Data Structures and Algorithms Analysis Training for computer science students.
 
 |`Project 21` | `Project 22` | `Project 23` | `Project 24` |
 |:----:|:----:|:----:|:----:|
-| [Bank System](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) | [Champions League System](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) | [Hospital System](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) | [Project Management System](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) |
-|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/bank-system.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/champions-league-system.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/hospital-system.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/project-management-system.jpg">|
+| [8 Queens Game](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) | [Knights Tour Game](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) | [Chess Endgame Game](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) | [Chess Game](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) |
+|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/8-queens-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/knights-tour-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/chess-endgame-game.jpg">|<img width="200" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/chess-game.jpg">|
 
 |`Project 25` | `Project 26` | `Project 27` | `Project 28` |
 |:----:|:----:|:----:|:----:|
