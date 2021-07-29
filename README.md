@@ -196,18 +196,16 @@ Data Structures and Algorithms Analysis Training for computer science students.
 ## [`Coursera-Specializations`](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md)
 
 ### `Discrete Mathematics` Specializations
-* ***Introduction to Computer Science and Programming Specialization*** by University of London
-* ***Introduction to Scripting in Python Specialization*** by Rice University
-* ***Python 3 Programming Specialization*** by University of Michigan
-* ***Fundamentals of Computing Specialization*** by Rice University
-* ***Programming in Python: A Hands-on Introduction Specialization*** by Codio
+* ***Introduction to Discrete Mathematics for Computer Science Specialization*** by National Research University Higher School of Economics
+* ***Discrete Mathematics*** by Shanghai Jiao Tong University
 
 ### `Data Structures and Algorithms Analysis` Specializations
-* ***Introduction to Computer Science and Programming Specialization*** by University of London
-* ***Introduction to Programming in C Specialization*** by Duke University
-* ***Computational Thinking with Beginning C Programming Specialization*** by University of Colorado Boulder
-* ***Coding for Everyone: C and C++ Specialization by University of Californ Specialization*** by University of California Santa Cruz
-* ***Programming in C++: A Hands-on Introduction Specialization*** by Codio
+* ***Accelerated Computer Science Fundamentals Specialization*** by University of Illinois at Urbana-Champaign
+* ***Algorithms Specialization*** by Stanford University
+* ***Data Structures and Algorithms Specialization*** by University of California San Diego & National Research University Higher School of Economics
+* ***C/C++ for competitive programming*** by Moscow Institute of Physics and Technology
+* ***Competitive Programming for Beginners*** by Moscow Institute of Physics and Technology
+* ***Algebra & Algorithms*** by Moscow Institute of Physics and Technology
 
 <img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
 
