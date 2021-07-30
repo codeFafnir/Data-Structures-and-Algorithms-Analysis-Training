@@ -12,7 +12,7 @@ Data Structures and Algorithms Analysis Training for computer science students.
 <br>
 <br>
 
-## [`Lectures`](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) `2 hrs`/`Lecture`
+## [`Lectures`](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) `3 hrs`/`Lecture`
 
 ### `Discrete Mathematics` Lectures
 
