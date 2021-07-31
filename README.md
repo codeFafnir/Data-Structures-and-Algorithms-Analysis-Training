@@ -11,7 +11,7 @@ Data Structures and Algorithms Analysis Training for computer science students.
 ## :dart: `Training Summary`
 ### :clock4:            `300` Hours                     :calendar:          `30` Weeks
 ### :open_file_folder:  `03` Courses        :clipboard: `06` Modules        :bookmark_tabs: `38` Lectures       :card_index: `240` Sections       :pencil: `80` Quizzes
-### :bulb:              `20` Assignments    :video_game: `32` Projects
+### :paperclip:         `38` Practices      :bulb: `20` Assignments         :video_game: `32` Projects
 ### :books:             `16` Textbooks      :computer: `08` Coursera Specializations        :film_strip: `24` YouTube Playlists
 ### :pencil2: :page_facing_up: :ledger:  `keep writing your notes and enjoy learning`
 
