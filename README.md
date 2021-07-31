@@ -11,13 +11,16 @@ Data Structures and Algorithms Analysis Training for computer science students.
 <br>
 <br>
 <br>
+<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
+<br>
+<br>
+<br>
 
 ## [`Lectures`](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) `3 hrs`/`Lecture`
 
 ### `Discrete Mathematics` Lectures
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/discrete-mathematics.jpg">
-<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
 ### `Module 1` Proofs and Structures
 #### `Lecture 01` - [The Foundations of Proofs](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
@@ -28,7 +31,6 @@ Data Structures and Algorithms Analysis Training for computer science students.
 #### `Lecture 06` - [Induction and Recursion](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/discrete-mathematics.jpg">
-<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
 ### `Module 2` Graphs and Trees
 #### `Lecture 07` - [Probability](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
@@ -41,7 +43,6 @@ Data Structures and Algorithms Analysis Training for computer science students.
 ### `Data Structures` Lectures
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg">
-<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
 ### `Module 1` Linear Data Structures
 #### `Lecture 01` - [Complexity Analysis](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
@@ -53,7 +54,6 @@ Data Structures and Algorithms Analysis Training for computer science students.
 #### `Lecture 07` - [Built-in Linear Data Structures](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg">
-<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
 ### `Module 2` Non-Linear Data Structures
 #### `Lecture 08` - [Binary Tree](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
@@ -67,7 +67,6 @@ Data Structures and Algorithms Analysis Training for computer science students.
 ### `Algorithms Analysis` Lectures
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg">
-<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
 ### `Module 1` Basic Algorithms
 #### `Lecture 01` - [Complexity Analysis](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
@@ -78,7 +77,6 @@ Data Structures and Algorithms Analysis Training for computer science students.
 #### `Lecture 06` - [Transform and Conquer](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg">
-<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
 ### `Module 2` Graph Algorithms and Dynamic Programming
 #### `Lecture 07` - [Introduction to Graph](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
@@ -89,13 +87,17 @@ Data Structures and Algorithms Analysis Training for computer science students.
 #### `Lecture 12` - [Dynamic Programming](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
 
 <br>
+<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
+<br>
+<br>
 <br>
 
 ## [`Assignments`]() `10 hrs`/`Assignment`
 
 ### `Data Structures and Algorithms Analysis` Assignments
 
-<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg">
 
 #### `Assignment 01` - Data Structure Problems in [codeforces-phase-2-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-1)
 #### `Assignment 02` - String Problems in [codeforces-phase-2-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-1)
@@ -108,11 +110,10 @@ Data Structures and Algorithms Analysis Training for computer science students.
 #### `Assignment 09` - Greedy Problems in [codeforces-phase-2-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-2)
 #### `Assignment 10` - Brute Force Problems in [codeforces-phase-2-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-2)
 
-<br>
-
 ### `Data Structures and Algorithms Analysis` Assignments
 
-<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg">
 
 #### `Assignment 11` - Data Structure Problems in [codeforces-phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-3)
 #### `Assignment 12` - String Problems in [codeforces-phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-3)
@@ -185,10 +186,15 @@ Data Structures and Algorithms Analysis Training for computer science students.
 
 <br>
 <img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/textbooks.jpg">
+<br>
+<br>
 
 ## [`Textbooks`](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks)
 
 ### `Discrete Mathematics` Textbooks
+
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/discrete-mathematics.jpg">
+
 * ***Discrete Mathematics and Its Applications***, Kenneth Rosen
 * ***Discrete Mathematics: An Open Introduction***, Oscar Levin
 * ***Elements of Discrete Mathematics***, Richard H. Hammack
@@ -199,24 +205,36 @@ Data Structures and Algorithms Analysis Training for computer science students.
 * ***Notes on Discrete Mathematics***, James Aspnes
 
 ### `Data Structures and Algorithms Analysis` Textbooks
+
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg">
+
 * ***Introduction to Algorithms***, Thomas H. Cormen
 * ***Data Structures and Algorithms Annotated Reference***, Granville Barnett and Luca Del Tongo
 * ***Analysis of Algorithms An Active Learning Approach***, Jeffrey J. McConnell
-* ***Grokking Algorithms: An illustrated guide for programmers and other curious people***, Aditya Y. Bhargava
 * ***Competitive Programming 3***, Steven Halim
 * ***Fundamental of Algorithms***, Gilles Brassard and Paul Bartley
 * ***The Algorithm Design Manual***, Steven S. Skiena
+* ***Grokking Algorithms: An illustrated guide for programmers and other curious people***, Aditya Y. Bhargava
 * ***Data Structures and Algorithms Made Easy: Data Structures and Algorithmic Puzzles***, Narasimha Karumanchi
 
+<br>
 <img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg">
 
 ## [`Coursera-Specializations`](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md)
 
 ### `Discrete Mathematics` Specializations
+
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/discrete-mathematics.jpg">
+
 * ***Introduction to Discrete Mathematics for Computer Science Specialization*** by National Research University Higher School of Economics
 * ***Discrete Mathematics*** by Shanghai Jiao Tong University
 
 ### `Data Structures and Algorithms Analysis` Specializations
+
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg">
+
 * ***Accelerated Computer Science Fundamentals Specialization*** by University of Illinois at Urbana-Champaign
 * ***Algorithms Specialization*** by Stanford University
 * ***Data Structures and Algorithms Specialization*** by University of California San Diego & National Research University Higher School of Economics
@@ -224,6 +242,7 @@ Data Structures and Algorithms Analysis Training for computer science students.
 * ***Competitive Programming for Beginners*** by Moscow Institute of Physics and Technology
 * ***Algebra & Algorithms*** by Moscow Institute of Physics and Technology
 
+<br>
 <img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
 
 ## [`YouTube-Playlists`](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md)
