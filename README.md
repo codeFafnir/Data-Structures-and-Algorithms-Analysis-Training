@@ -9,11 +9,21 @@ Data Structures and Algorithms Analysis Training for computer science students.
 <br>
 
 ## :dart: `Training Summary`
-### :clock4:            `300` Hours                     :calendar:          `30` Weeks
-### :open_file_folder:  `03` Courses        :clipboard: `06` Modules        :bookmark_tabs: `38` Lectures       :card_index: `240` Sections       :pencil: `80` Quizzes
-### :paperclip:         `38` Practices      :bulb: `20` Assignments         :video_game: `32` Projects
-### :books:             `16` Textbooks      :computer: `08` Coursera Specializations        :film_strip: `24` YouTube Playlists
+### :clock4:            `300` Hours         :calendar:  `30` Weeks
+### :open_file_folder:  `03` Courses        :clipboard: `06` Modules             :bookmark_tabs: `38` Lectures    :card_index: `240` Sections       :pencil: `80` Quizzes
+### :paperclip:         `38` Practices      :bulb:      `20` Assignments         :video_game: `32` Projects
+### :books:             `16` Textbooks      :computer:  `08` Coursera Specializations                             :film_strip: `24` YouTube Playlists
 ### :pencil2: :page_facing_up: :ledger:  `keep writing your notes and enjoy learning`
+
+<br>
+
+### `Prerequisite Knowledge`
+* [Programming Languages and Object Oriented Training](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training) Repository
+### `Related Repository`
+* [Problem Solving Training](https://github.com/cs-MohamedAyman/Problem-Solving-Training) Repository
+* [Computer Science Textbooks](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks) Repository
+* [Coursera Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations) Repository
+* [YouTube Playlists](https://github.com/cs-MohamedAyman/YouTube-Playlists) Repository
 
 <img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
