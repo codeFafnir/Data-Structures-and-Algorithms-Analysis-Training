@@ -111,7 +111,7 @@ Data Structures and Algorithms Analysis Training for computer science students.
 <br>
 
 ## [`Assignments`]()
-### :bookmark_tabs: `1 Assignment` :clock4: `10 Hours` :label: `10 Tasks`
+### :bulb: `1 Assignment` :clock4: `10 Hours` :label: `10 Tasks`
 <br>
 
 ### `Data Structures and Algorithms Analysis` Assignments
@@ -202,7 +202,7 @@ Data Structures and Algorithms Analysis Training for computer science students.
 
 ## [`Textbooks`](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks)
 
-### `Discrete Mathematics` Textbooks
+### :books: `Discrete Mathematics` Textbooks
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/discrete-mathematics.jpg">
 
@@ -215,7 +215,7 @@ Data Structures and Algorithms Analysis Training for computer science students.
 * ***Fundamentals of Discrete Math for Computer Science***, Tom Jenkyns
 * ***Notes on Discrete Mathematics***, James Aspnes
 
-### `Data Structures and Algorithms Analysis` Textbooks
+### :books: `Data Structures and Algorithms Analysis` Textbooks
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg">
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg">
@@ -234,14 +234,14 @@ Data Structures and Algorithms Analysis Training for computer science students.
 
 ## [`Coursera-Specializations`](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md)
 
-### `Discrete Mathematics` Specializations
+### :computer: `Discrete Mathematics` Specializations
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/discrete-mathematics.jpg">
 
 * ***Introduction to Discrete Mathematics for Computer Science Specialization*** by National Research University Higher School of Economics
 * ***Discrete Mathematics*** by Shanghai Jiao Tong University
 
-### `Data Structures and Algorithms Analysis` Specializations
+### :computer: `Data Structures and Algorithms Analysis` Specializations
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg">
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg">
