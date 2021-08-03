@@ -12,10 +12,10 @@
 Data Structures and Algorithms Analysis Training for computer science students.
 
 ## :dart: `Training Summary`
-### :clock4:            `300` Hours         :calendar:  `30` Weeks
-### :open_file_folder:  `03` Courses        :clipboard: `06` Modules             :bookmark_tabs: `38` Lectures    :card_index: `240` Sections       :pencil: `80` Quizzes
-### :paperclip:         `38` Practices      :bulb:      `20` Assignments         :video_game: `32` Projects
-### :books:             `16` Textbooks      :computer:  `08` Coursera Specializations                             :film_strip: `24` YouTube Playlists
+### :clock4:            `300` Hours         :calendar:    `30` Weeks                       :open_file_folder:  `3` Courses         :clipboard:   `6` Modules
+### :bookmark_tabs:     `38` Lectures       :card_index:  `240` Sections                   :pencil:     `80` Quizzes               :paperclip: `600` Practices
+### :bulb:              `20` Assignments    :label:       `200` Tasks                      :video_game: `32` Projects              :bookmark: `320` Tasks
+### :books:             `16` Textbooks      :computer:    `8` Coursera Specializations     :film_strip: `24` YouTube Playlists
 ### :pencil2: :page_facing_up: :ledger:  `keep writing your notes and enjoy learning`
 
 <br>
@@ -31,8 +31,11 @@ Data Structures and Algorithms Analysis Training for computer science students.
 <img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
 <br>
+<br>
 
-## [`Lectures`](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) `3 hrs`/`Lecture`
+## [`Lectures`](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) 
+### :bookmark_tabs: `1 Lecture` :clock4: `3 Hours` :card_index: `6 Sections` :pencil: `2 Quizzes` :paperclip: `15 Practices` 
+<br>
 
 ### `Discrete Mathematics` Lectures
 
@@ -106,9 +109,10 @@ Data Structures and Algorithms Analysis Training for computer science students.
 <img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
 <br>
 <br>
-<br>
 
-## [`Assignments`]() `10 hrs`/`Assignment`
+## [`Assignments`]()
+### :bookmark_tabs: `1 Assignment` :clock4: `10 Hours` :label: `10 Tasks`
+<br>
 
 ### `Data Structures and Algorithms Analysis` Assignments
 
@@ -145,12 +149,12 @@ Data Structures and Algorithms Analysis Training for computer science students.
 <br>
 <br>
 
-## [`Educational-Projects`](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) `10 hrs`/`Project`
+## [`Educational-Projects`](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) 
+### :video_game: `1 Project` :clock4: `10 Hours` :bookmark: `10 Tasks`
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/discrete-mathematics.jpg">
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg">
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg">
-
 <br>
 <br>
 <br>
