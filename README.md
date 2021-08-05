@@ -13,9 +13,9 @@ Data Structures and Algorithms Analysis Training for computer science students.
 
 ## :dart: `Training Summary`
 ### :clock4:            `300` Hours         :calendar:    `30` Weeks                       :open_file_folder:  `3` Courses         :clipboard: `6` Modules
-### :bookmark_tabs:     `38` Lectures       :card_index:  `240` Sections                   :pencil:     `80` Quizzes               :paperclip: `600` Practices
-### :bulb:              `20` Assignments    :label:       `200` Tasks                      :video_game: `32` Projects              :bookmark:  `320` Tasks
-### :books:             `16` Textbooks      :computer:    `8` Coursera Specializations     :film_strip: `24` YouTube Playlists
+### :bookmark_tabs:     `38` Lectures       :card_index:  `240` Sections                   :pencil:            `80` Quizzes        :paperclip: `600` Practices
+### :bulb:              `30` Assignments    :label:       `200` Tasks                      :video_game:        `40` Projects       :bookmark:  `400` Tasks
+### :books:             `15` Textbooks      :computer:    `10` Coursera Specializations    :film_strip:        `30` YouTube Playlists
 ### :pencil2: :page_facing_up: :ledger:  `keep writing your notes and enjoy learning`
 
 <br>
@@ -110,7 +110,7 @@ Data Structures and Algorithms Analysis Training for computer science students.
 <br>
 <br>
 
-## [`Assignments`]()
+## [`Assignments`](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments)
 ### :bulb: `1 Assignment` :clock4: `10 Hours` :label: `10 Tasks`
 <br>
 
