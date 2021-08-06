@@ -99,8 +99,8 @@ Data Structures and Algorithms Analysis Training for computer science students.
 
 ### `Module 2` Graph Algorithms and Dynamic Programming
 #### Lecture 07 - [Introduction to Graph](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 08 - [Shortest Path Graph Algorithms](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
-#### Lecture 09 - [Spanning Tree Graph Algorithms](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
+#### Lecture 08 - [Shortest Path Algorithms](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
+#### Lecture 09 - [Spanning Tree Algorithms](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
 #### Lecture 10 - [Greedy Algorithms](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
 #### Lecture 11 - [Brute Force Algorithms](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
 #### Lecture 12 - [Dynamic Programming](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)
