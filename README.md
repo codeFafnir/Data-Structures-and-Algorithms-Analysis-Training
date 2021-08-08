@@ -12,10 +12,13 @@
 Data Structures and Algorithms Analysis Training for computer science students.
 
 ## :dart: `Training Summary`
-### :clock4:            `300` Hours         :calendar:    `30` Weeks                       :open_file_folder:  `3` Courses         :clipboard: `6` Modules
-### :bookmark_tabs:     `38` Lectures       :card_index:  `240` Sections                   :pencil:            `80` Quizzes        :paperclip: `600` Practices
-### :bulb:              `30` Assignments    :label:       `200` Tasks                      :video_game:        `40` Projects       :bookmark:  `400` Tasks
-### :books:             `15` Textbooks      :computer:    `10` Coursera Specializations    :film_strip:        `30` YouTube Playlists
+
+| :clock4:        | `300` | Hours       | :calendar:         | `30`  | Weeks    | :open_file_folder: | `3`  | Courses  | :clipboard:  | `6`   | Modules   |
+|:---------------:|:-----:|:-----------:|:------------------:|:-----:|:--------:|:------------------:|:----:|:--------:|:------------:|:-----:|:---------:|
+| :bookmark_tabs: | `38`  | Lectures    | :card_index:       | `240` | Sections | :pencil:           | `80` | Quizzes  | :paperclip:  | `600` | Practices |
+| :bulb:          | `30`  | Assignments | :label:            | `200` | Tasks    | :video_game:       | `40` | Projects | :bookmark:   | `400` | Tasks     |
+| :books:         | `15`  | Textbooks   | :desktop_computer: | `5`   | Udacity  | :computer:         | `10` | Coursera | :film_strip: | `10`  | YouTube   |
+
 ### :pencil2: :page_facing_up: :ledger:  `keep writing your notes and enjoy learning`
 
 <br>
