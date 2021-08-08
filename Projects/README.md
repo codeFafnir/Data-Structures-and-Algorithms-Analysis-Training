@@ -12,6 +12,8 @@ Data Structures and Algorithms Analysis Training Projects for computer science s
 <br>
 <br>
 
+<img align="middle" width="900" height="225" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/educational-projects.jpg">
+
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/equation-solver.jpg">
 
 ## `Project 01` [Equation Solver]()
