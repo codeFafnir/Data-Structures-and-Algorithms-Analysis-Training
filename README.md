@@ -364,10 +364,6 @@ Data Structures and Algorithms Analysis Training for computer science students.
 
 ## [`Coursera-Specializations`](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md)
 
-### :computer: `Discrete Mathematics` Specializations
-
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/discrete-mathematics.jpg">
-
 <table>
     <thead>
         <tr>
@@ -410,23 +406,6 @@ Discrete Mathematics by Shanghai Jiao Tong University<br>
                 <td><a href="https://www.coursera.org/learn/discrete-mathematics">Discrete Mathematics</a></td>
                 <td align="center">45</td>
             </tr>
-    </tbody>
-</table>
-	
-### :computer: `Data Structures and Algorithms Analysis` Specializations
-
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg">
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg">
-
-<table>
-    <thead>
-        <tr>
-            <th width="40%">Specialization</th>
-            <th width="60%">Course Name</th>
-            <th>Hrs</th>
-        </tr>
-    </thead>
-    <tbody>
             <tr>
                 <td rowspan=3 align=center>
 Accelerated Computer Science Fundamentals  
