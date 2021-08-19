@@ -65,8 +65,8 @@ Data Structures and Algorithms Analysis Training for computer science students.
 
 ### `Data Structures` Lectures
 
-| `Module 1`      | Linear Data Structures                     | `Module 2`      | Non-Linear Data Structures                 |
-|:---------------:|:------------------------------------------:|:---------------:|:------------------------------------------:|
+| `Module 1`  | Linear Data Structures       | `Module 2`  | Non-Linear Data Structures   |
+|:-----------:|:----------------------------:|:-----------:|:----------------------------:|
 | Lecture 01  | [Complexity Analysis](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)                                      | Lecture 08 | [Binary Tree](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) |
 | Lecture 02  | [Array](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)                                                    | Lecture 09 | [Binary Search Tree](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) |
 | Lecture 03  | [Linked List](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)                                              | Lecture 10 | [AVL Tree](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) |
@@ -81,8 +81,8 @@ Data Structures and Algorithms Analysis Training for computer science students.
 
 ### `Algorithms Analysis` Lectures
 
-| `Module 1`      | Basic Algorithms                           | `Module 2`      | Graph Algorithms and Dynamic Programming   |
-|:---------------:|:------------------------------------------:|:---------------:|:------------------------------------------:|
+| `Module 1`  | Basic Algorithms             | `Module 2`  | Graph Algorithms and Dynamic Programming   |
+|:-----------:|:----------------------------:|:-----------:|:----------------------------:|
 | Lecture 01  | [Complexity Analysis](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)                                      | Lecture 07 | [Introduction to Graph](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) |
 | Lecture 02  | [Sorting Algorithms](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)                                        | Lecture 08 | [Shortest Path Algorithms](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) |
 | Lecture 03  | [Searching Algorithms](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)                                     | Lecture 09 | [Spanning Tree Algorithms](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) |
