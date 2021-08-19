@@ -13,11 +13,12 @@ Data Structures and Algorithms Analysis Training for computer science students.
 
 ## :dart: `Training Summary`
 
-| `300` | :clock4:        Hours       | `30`  | :calendar:         Weeks    | `3`  | :open_file_folder:  Courses  | `6`   | :clipboard:   Modules   |
-|:-----:|:---------------------------:|:-----:|:---------------------------:|:----:|:----------------------------:|:-----:|:-----------------------:|
-| `40`  | :bookmark_tabs: Lectures    | `240` | :card_index:       Sections | `80` | :pencil:            Quizzes  | `600` | :paperclip:   Practices |
-| `25`  | :bulb:          Assignments | `250` | :label:            Tasks    | `40` | :video_game:        Projects | `400` | :bookmark:    Tasks     |
-| `21`  | :books:         Textbooks   | `5`   | :desktop_computer: Udacity  | `11` | :computer:          Coursera | `10`  | :film_strip:  YouTube   |
+| `300` | :clock4:        Hours       | `30`  | :calendar:         Weeks    | `3`   | :open_file_folder:  Courses | `6`   | :clipboard:   Modules       |
+|:-----:|:---------------------------:|:-----:|:---------------------------:|:-----:|:---------------------------:|:-----:|:---------------------------:|
+| `40`  | :bookmark_tabs: Lectures    | `240` | :card_index:       Sections | `80`  | :pencil:           Quizzes  | `600` | :paperclip:   Practices     |
+| `25`  | :bulb:          Assignments | `250` | :label:            Tasks    | `40`  | :video_game:       Projects | `400` | :bookmark:    Tasks         |
+| `21`  | :books:         Textbooks   | `5`   | :desktop_computer: Udacity  | `11`  | :computer:         Coursera | `10`  | :film_strip:  YouTube       |
+|       | <img width=150>             |       | <img width=150>             |       | <img width=150>             |       | <img width=150>             |
 
 ### :pencil2: :page_facing_up: :ledger:  `keep writing your notes and enjoy learning`
 
