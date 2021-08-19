@@ -50,7 +50,7 @@ Data Structures and Algorithms Analysis Training for computer science students.
 
 ### `Discrete Mathematics` Lectures
 
-| `Module 1`<img width=150>      | Proofs and Structures<img width=700>                      | `Module 2`<img width=150>      | Graphs and Trees<img width=700>                          |
+| `Module 1`<img width=100>      | Proofs and Structures<img width=700>                      | `Module 2`<img width=100>      | Graphs and Trees<img width=700>                          |
 |:---------------:|:------------------------------------------:|:---------------:|:------------------------------------------:|
 | Lecture 01  | [The Foundations of Proofs](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)                                | Lecture 07  | [Probability](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) |
 | Lecture 02  | [Sets and Functions](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)                                       | Lecture 08  | [Counting Techniques](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) |
