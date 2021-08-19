@@ -23,13 +23,18 @@ Data Structures and Algorithms Analysis Training for computer science students.
 
 <br>
 
-### `Prerequisite Knowledge`
-* [Programming Languages and Object Oriented Training](https://github.com/cs-MohamedAyman/Programming-Languages-and-Object-Oriented-Training) Repository
-### `Related Repository`
-* [Problem Solving Training](https://github.com/cs-MohamedAyman/Problem-Solving-Training) Repository
-* [Computer Science Textbooks](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks) Repository
-* [Coursera Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations) Repository
-* [YouTube Playlists](https://github.com/cs-MohamedAyman/YouTube-Playlists) Repository
+## Table of Contents
+  * [Lectures](#Lectures)
+    * [Discrete Mathematics Lectures](#Discrete-Mathematics-Lectures)
+    * [Data Structures Lectures](#Data-Structures-Lectures)
+    * [Algorithms Analysis Lectures](#Algorithms-Analysis-Lectures)
+  * [Assignments](#Assignments)
+  * [Educational-Projects](#Educational-Projects)
+  * [Textbooks](#Textbooks)
+  * [Coursera-Specializations](#Coursera-Specializations)
+  * [YouTube-Playlists](#YouTube-Playlists)
+
+<br>
 
 <img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
