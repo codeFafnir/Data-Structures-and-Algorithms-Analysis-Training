@@ -58,7 +58,7 @@ Data Structures and Algorithms Analysis Training for computer science students.
 | Lecture 04  | [Propositional logic and Predicate logic](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)                    | Lecture 10  | [Graphs](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) |
 | Lecture 05  | [Number Theory](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)                                            | Lecture 11  | [Trees](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) |
 | Lecture 06  | [Induction and Recursion](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)                                  | Lecture 12  | [Boolean Algebra](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) |
-|<img width=50>| <img width=350>                           |<img width=50>| <img width=350>                           |
+|<img width=70>| <img width=350>                           |<img width=70>| <img width=350>                           |
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg">
 <br>
@@ -74,7 +74,7 @@ Data Structures and Algorithms Analysis Training for computer science students.
 | Lecture 05  | [Queue](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)                                                    | Lecture 12 | [Binary Heap Tree](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) |
 | Lecture 06  | [Deque](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)                                                    | Lecture 13 | [Hash Table](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) |
 | Lecture 07  | [Built-in Linear Data Structures](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)                          | Lecture 14 | [Built-in Non-Linear Data Structures](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) |
-|<img width=50>| <img width=350>                           |<img width=50>| <img width=350>                           |
+|<img width=70>| <img width=350>                           |<img width=70>| <img width=350>                           |
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg">
 <br>
@@ -89,7 +89,7 @@ Data Structures and Algorithms Analysis Training for computer science students.
 | Lecture 04  | [Decrease and Conquer](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)                                     | Lecture 10 | [Greedy Algorithms](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) |
 | Lecture 05  | [Divide and Conquer](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)                                        | Lecture 11 | [Brute Force Algorithms](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) |
 | Lecture 06  | [Transform and Conquer](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)                                    | Lecture 12 | [Dynamic Programming](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) |
-|<img width=50>| <img width=350>                           |<img width=50>| <img width=350>                           |
+|<img width=70>| <img width=350>                           |<img width=70>| <img width=350>                           |
 
 <br>
 <img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
