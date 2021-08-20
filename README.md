@@ -162,15 +162,52 @@ Data Structures and Algorithms Analysis Training for computer science students.
 
 ### `Algorithms Analysis` Lectures
 
-| `Module 1`  | Basic Algorithms             | `Module 2`  | Graph Algorithms and Dynamic Programming   |
-|:-----------:|:----------------------------:|:-----------:|:----------------------------:|
-| Lecture 01  | [Complexity Analysis](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)                                      | Lecture 07 | [Introduction to Graph](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) |
-| Lecture 02  | [Sorting Algorithms](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)                                        | Lecture 08 | [Shortest Path Algorithms](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) |
-| Lecture 03  | [Searching Algorithms](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)                                     | Lecture 09 | [Spanning Tree Algorithms](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) |
-| Lecture 04  | [Decrease and Conquer](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)                                     | Lecture 10 | [Greedy Algorithms](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) |
-| Lecture 05  | [Divide and Conquer](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)                                        | Lecture 11 | [Brute Force Algorithms](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) |
-| Lecture 06  | [Transform and Conquer](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)                                    | Lecture 12 | [Dynamic Programming](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) |
-| | <img width=333>                           | | <img width=333>                           |
+<table>
+    <tbody>
+        <tr>
+            <td align=center width="10%">Module 1</td>
+            <td align=center width="40%">Basic Algorithms</td>
+            <td align=center width="10%">Module 2</td>
+            <td align=center width="40%">Graph Algorithms and Dynamic Programming</td>
+        </tr>
+        <tr>
+            <td align=center width="10%">Lecture 01</td>
+            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Complexity Analysis</a></td>
+            <td align=center width="10%">Lecture 07</td>
+            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Introduction to Graph</a></td>
+        </tr>
+        <tr>
+            <td align=center width="10%">Lecture 02</td>
+            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Sorting Algorithms</a></td>
+            <td align=center width="10%">Lecture 08</td>
+            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Shortest Path Algorithms</a></td>
+        </tr>
+        <tr>
+            <td align=center width="10%">Lecture 03</td>
+            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Searching Algorithms</a></td>
+            <td align=center width="10%">Lecture 09</td>
+            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Spanning Tree Algorithms</a></td>
+        </tr>
+        <tr>
+            <td align=center width="10%">Lecture 04</td>
+            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Decrease and Conquer</a></td>
+            <td align=center width="10%">Lecture 10</td>
+            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Greedy Algorithms</a></td>
+        </tr>
+        <tr>
+            <td align=center width="10%">Lecture 05</td>
+            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Divide and Conquer</a></td>
+            <td align=center width="10%">Lecture 11</td>
+            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Brute Force Algorithms</a></td>
+        </tr>
+        <tr>
+            <td align=center width="10%">Lecture 06</td>
+            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Transform and Conquer</a></td>
+            <td align=center width="10%">Lecture 12</td>
+            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Dynamic Programming</a></td>
+        </tr>
+    </tbody>
+</table>
 
 <br>
 <img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
