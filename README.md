@@ -32,8 +32,8 @@ Data Structures and Algorithms Analysis Training for computer science students.
   * [Assignments](#Assignments)
   * [Educational-Projects](#Educational-Projects)
   * [Textbooks](#Textbooks)
-    * [:books: Discrete Mathematics Textbooks](#Discrete-Mathematics-Textbooks)
-    * [:books: Data Structures and Algorithms Analysis Textbooks](#Data-Structures-and-Algorithms-Analysis-Textbooks)
+    * [Discrete Mathematics Textbooks](#Discrete-Mathematics-Textbooks)
+    * [Data Structures and Algorithms Analysis Textbooks](#Data-Structures-and-Algorithms-Analysis-Textbooks)
   * [Coursera-Specializations](#Coursera-Specializations)
   * [YouTube-Playlists](#YouTube-Playlists)
 
@@ -308,7 +308,7 @@ Data Structures and Algorithms Analysis Training for computer science students.
 
 ## [`Textbooks`](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/README.md)
 
-### :books: `Discrete Mathematics` Textbooks
+### `Discrete Mathematics` Textbooks
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/discrete-mathematics.jpg">
 
@@ -400,7 +400,7 @@ Data Structures and Algorithms Analysis Training for computer science students.
     </tbody>
 </table>
 
-### :books: `Data Structures and Algorithms Analysis` Textbooks
+### `Data Structures and Algorithms Analysis` Textbooks
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg">
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg">
