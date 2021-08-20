@@ -13,43 +13,43 @@ Data Structures and Algorithms Analysis Training for computer science students.
     <tbody>
         <tr>
             <td align=center width="5%"><h4>300</h4></td>
-            <td align=center width="20%"><h4>🕓 Hours</h4></td>
+            <td align=center width="15%"><h4>🕓 Hours</h4></td>
             <td align=center width="5%"><h4>30</h4></td>
-            <td align=center width="20%"><h4>📆 Weeks</h4></td>
+            <td align=center width="15%"><h4>📆 Weeks</h4></td>
             <td align=center width="5%"><h4>3</h4></td>
-            <td align=center width="20%"><h4>📂 Courses</h4></td>
+            <td align=center width="15%"><h4>📂 Courses</h4></td>
             <td align=center width="5%"><h4>6</h4></td>
-            <td align=center width="20%"><h4>📋 Modules</h4></td>
+            <td align=center width="15%"><h4>📋 Modules</h4></td>
         </tr>
         <tr>
             <td align=center width="5%"><h4>40</h4></td>
-            <td align=center width="20%"><h4>📑 Lectures</h4></td>
+            <td align=center width="15%"><h4>📑 Lectures</h4></td>
             <td align=center width="5%"><h4>240</h4></td>
-            <td align=center width="20%"><h4>📇 Sections</h4></td>
+            <td align=center width="15%"><h4>📇 Sections</h4></td>
             <td align=center width="5%"><h4>80</h4></td>
-            <td align=center width="20%"><h4>📝 Quizzes</h4></td>
+            <td align=center width="15%"><h4>📝 Quizzes</h4></td>
             <td align=center width="5%"><h4>600</h4></td>
-            <td align=center width="20%"><h4>📎 Practices</h4></td>
+            <td align=center width="15%"><h4>📎 Practices</h4></td>
         </tr>
         <tr>
             <td align=center width="5%"><h4>300</h4></td>
-            <td align=center width="20%"><h4>💡 Assignments</h4></td>
+            <td align=center width="15%"><h4>💡 Assignments</h4></td>
             <td align=center width="5%"><h4>30</h4></td>
-            <td align=center width="20%"><h4>🏷️ Tasks</h4></td>
+            <td align=center width="15%"><h4>🏷️ Tasks</h4></td>
             <td align=center width="5%"><h4>3</h4></td>
-            <td align=center width="20%"><h4>🎮 Projects</h4></td>
+            <td align=center width="15%"><h4>🎮 Projects</h4></td>
             <td align=center width="5%"><h4>6</h4></td>
-            <td align=center width="20%"><h4>🔖 Tasks</h4></td>
+            <td align=center width="15%"><h4>🔖 Tasks</h4></td>
         </tr>
         <tr>
             <td align=center width="5%"><h4>20</h4></td>
-            <td align=center width="20%"><h4>📚 Textbooks</h4></td>
+            <td align=center width="15%"><h4>📚 Textbooks</h4></td>
             <td align=center width="5%"><h4>5</h4></td>
-            <td align=center width="20%"><h4>🖥️ Udacity</h4></td>
+            <td align=center width="15%"><h4>🖥️ Udacity</h4></td>
             <td align=center width="5%"><h4>10</h4></td>
-            <td align=center width="20%"><h4>💻 Coursera</h4></td>
+            <td align=center width="15%"><h4>💻 Coursera</h4></td>
             <td align=center width="5%"><h4>30</h4></td>
-            <td align=center width="20%"><h4>🎞️ YouTube</h4></td>
+            <td align=center width="15%"><h4>🎞️ YouTube</h4></td>
         </tr>
     </tbody>
 </table>
