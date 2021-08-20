@@ -42,13 +42,13 @@ Data Structures and Algorithms Analysis Training for computer science students.
             <td align=center width="20%"><h3>🔖 Tasks</h3></td>
         </tr>
         <tr>
-            <td align=center width="5%"><h3>300</h3></td>
+            <td align=center width="5%"><h3>20</h3></td>
             <td align=center width="20%"><h3>📚 Textbooks</h3></td>
-            <td align=center width="5%"><h3>30</h3></td>
+            <td align=center width="5%"><h3>5</h3></td>
             <td align=center width="20%"><h3>🖥️ Udacity</h3></td>
-            <td align=center width="5%"><h3>3</h3></td>
+            <td align=center width="5%"><h3>10</h3></td>
             <td align=center width="20%"><h3>💻 Coursera</h3></td>
-            <td align=center width="5%"><h3>6</h3></td>
+            <td align=center width="5%"><h3>30</h3></td>
             <td align=center width="20%"><h3>🎞️ YouTube</h3></td>
         </tr>
     </tbody>
