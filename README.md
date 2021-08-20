@@ -90,46 +90,46 @@ Data Structures and Algorithms Analysis Training for computer science students.
 <table>
     <tbody>
         <tr>
-            <td align=center width="10%">Module 1</td>
-            <td align=center width="40%">Proofs and Structures</td>
-            <td align=center width="10%">Module 2</td>
-            <td align=center width="40%">Graphs and Trees</td>
+            <td align=center width="150px">Module 1</td>
+            <td align=center width="400px">Proofs and Structures</td>
+            <td align=center width="150px">Module 2</td>
+            <td align=center width="400px">Graphs and Trees</td>
         </tr>
         <tr>
-            <td align=center width="10%">Lecture 01</td>
-            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">The Foundations of Proofs</a></td>
-            <td align=center width="10%">Lecture 07</td>
-            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Probability</a></td>
+            <td align=center width="150px">Lecture 01</td>
+            <td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">The Foundations of Proofs</a></td>
+            <td align=center width="150px">Lecture 07</td>
+            <td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Probability</a></td>
         </tr>
         <tr>
-            <td align=center width="10%">Lecture 02</td>
-            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Sets and Functions</a></td>
-            <td align=center width="10%">Lecture 08</td>
-            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Counting Techniques</a></td>
+            <td align=center width="150px">Lecture 02</td>
+            <td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Sets and Functions</a></td>
+            <td align=center width="150px">Lecture 08</td>
+            <td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Counting Techniques</a></td>
         </tr>
         <tr>
-            <td align=center width="10%">Lecture 03</td>
-            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Sequences and Series</a></td>
-            <td align=center width="10%">Lecture 09</td>
-            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Relations</a></td>
+            <td align=center width="150px">Lecture 03</td>
+            <td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Sequences and Series</a></td>
+            <td align=center width="150px">Lecture 09</td>
+            <td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Relations</a></td>
         </tr>
         <tr>
-            <td align=center width="10%">Lecture 04</td>
-            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Propositional logic and Predicate logic</a></td>
-            <td align=center width="10%">Lecture 10</td>
-            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Graphs</a></td>
+            <td align=center width="150px">Lecture 04</td>
+            <td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Propositional logic and Predicate logic</a></td>
+            <td align=center width="150px">Lecture 10</td>
+            <td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Graphs</a></td>
         </tr>
         <tr>
-            <td align=center width="10%">Lecture 05</td>
-            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Number Theory</a></td>
-            <td align=center width="10%">Lecture 11</td>
-            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Trees</a></td>
+            <td align=center width="150px">Lecture 05</td>
+            <td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Number Theory</a></td>
+            <td align=center width="150px">Lecture 11</td>
+            <td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Trees</a></td>
         </tr>
         <tr>
-            <td align=center width="10%">Lecture 06</td>
-            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Induction and Recursion</a></td>
-            <td align=center width="10%">Lecture 12</td>
-            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Boolean Algebra</a></td>
+            <td align=center width="150px">Lecture 06</td>
+            <td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Induction and Recursion</a></td>
+            <td align=center width="150px">Lecture 12</td>
+            <td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Boolean Algebra</a></td>
         </tr>
     </tbody>
 </table>
@@ -142,52 +142,52 @@ Data Structures and Algorithms Analysis Training for computer science students.
 <table>
     <tbody>
         <tr>
-            <td align=center width="10%">Module 1</td>
-            <td align=center width="40%">Linear Data Structures</td>
-            <td align=center width="10%">Module 2</td>
-            <td align=center width="40%">Non-Linear Data Structures</td>
+            <td align=center width="150px">Module 1</td>
+            <td align=center width="400px">Linear Data Structures</td>
+            <td align=center width="150px">Module 2</td>
+            <td align=center width="400px">Non-Linear Data Structures</td>
         </tr>
         <tr>
-            <td align=center width="10%">Lecture 01</td>
-            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Complexity Analysis</a></td>
-            <td align=center width="10%">Lecture 08</td>
-            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Binary Tree</a></td>
+            <td align=center width="150px">Lecture 01</td>
+            <td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Complexity Analysis</a></td>
+            <td align=center width="150px">Lecture 08</td>
+            <td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Binary Tree</a></td>
         </tr>
         <tr>
-            <td align=center width="10%">Lecture 02</td>
-            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Array</a></td>
-            <td align=center width="10%">Lecture 09</td>
-            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Binary Search Tree</a></td>
+            <td align=center width="150px">Lecture 02</td>
+            <td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Array</a></td>
+            <td align=center width="150px">Lecture 09</td>
+            <td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Binary Search Tree</a></td>
         </tr>
         <tr>
-            <td align=center width="10%">Lecture 03</td>
-            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Linked List</a></td>
-            <td align=center width="10%">Lecture 10</td>
-            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">AVL Tree</a></td>
+            <td align=center width="150px">Lecture 03</td>
+            <td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Linked List</a></td>
+            <td align=center width="150px">Lecture 10</td>
+            <td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">AVL Tree</a></td>
         </tr>
         <tr>
-            <td align=center width="10%">Lecture 04</td>
-            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Stack</a></td>
-            <td align=center width="10%">Lecture 11</td>
-            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Red Black Tree</a></td>
+            <td align=center width="150px">Lecture 04</td>
+            <td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Stack</a></td>
+            <td align=center width="150px">Lecture 11</td>
+            <td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Red Black Tree</a></td>
         </tr>
         <tr>
-            <td align=center width="10%">Lecture 05</td>
-            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Queue</a></td>
-            <td align=center width="10%">Lecture 12</td>
-            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Binary Heap Tree</a></td>
+            <td align=center width="150px">Lecture 05</td>
+            <td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Queue</a></td>
+            <td align=center width="150px">Lecture 12</td>
+            <td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Binary Heap Tree</a></td>
         </tr>
         <tr>
-            <td align=center width="10%">Lecture 06</td>
-            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Deque</a></td>
-            <td align=center width="10%">Lecture 13</td>
-            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Hash Table</a></td>
+            <td align=center width="150px">Lecture 06</td>
+            <td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Deque</a></td>
+            <td align=center width="150px">Lecture 13</td>
+            <td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Hash Table</a></td>
         </tr>
         <tr>
-            <td align=center width="10%">Lecture 07</td>
-            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Built-in Linear Data Structures</a></td>
-            <td align=center width="10%">Lecture 14</td>
-            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Built-in Non-Linear Data Structures</a></td>
+            <td align=center width="150px">Lecture 07</td>
+            <td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Built-in Linear Data Structures</a></td>
+            <td align=center width="150px">Lecture 14</td>
+            <td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Built-in Non-Linear Data Structures</a></td>
         </tr>
     </tbody>
 </table>
@@ -200,46 +200,46 @@ Data Structures and Algorithms Analysis Training for computer science students.
 <table>
     <tbody>
         <tr>
-            <td align=center width="10%">Module 1</td>
-            <td align=center width="40%">Basic Algorithms</td>
-            <td align=center width="10%">Module 2</td>
-            <td align=center width="40%">Graph Algorithms and Dynamic Programming</td>
+            <td align=center width="150px">Module 1</td>
+            <td align=center width="400px">Basic Algorithms</td>
+            <td align=center width="150px">Module 2</td>
+            <td align=center width="400px">Graph Algorithms and Dynamic Programming</td>
         </tr>
         <tr>
-            <td align=center width="10%">Lecture 01</td>
-            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Complexity Analysis</a></td>
-            <td align=center width="10%">Lecture 07</td>
-            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Introduction to Graph</a></td>
+            <td align=center width="150px">Lecture 01</td>
+            <td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Complexity Analysis</a></td>
+            <td align=center width="150px">Lecture 07</td>
+            <td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Introduction to Graph</a></td>
         </tr>
         <tr>
-            <td align=center width="10%">Lecture 02</td>
-            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Sorting Algorithms</a></td>
-            <td align=center width="10%">Lecture 08</td>
-            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Shortest Path Algorithms</a></td>
+            <td align=center width="150px">Lecture 02</td>
+            <td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Sorting Algorithms</a></td>
+            <td align=center width="150px">Lecture 08</td>
+            <td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Shortest Path Algorithms</a></td>
         </tr>
         <tr>
-            <td align=center width="10%">Lecture 03</td>
-            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Searching Algorithms</a></td>
-            <td align=center width="10%">Lecture 09</td>
-            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Spanning Tree Algorithms</a></td>
+            <td align=center width="150px">Lecture 03</td>
+            <td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Searching Algorithms</a></td>
+            <td align=center width="150px">Lecture 09</td>
+            <td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Spanning Tree Algorithms</a></td>
         </tr>
         <tr>
-            <td align=center width="10%">Lecture 04</td>
-            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Decrease and Conquer</a></td>
-            <td align=center width="10%">Lecture 10</td>
-            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Greedy Algorithms</a></td>
+            <td align=center width="150px">Lecture 04</td>
+            <td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Decrease and Conquer</a></td>
+            <td align=center width="150px">Lecture 10</td>
+            <td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Greedy Algorithms</a></td>
         </tr>
         <tr>
-            <td align=center width="10%">Lecture 05</td>
-            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Divide and Conquer</a></td>
-            <td align=center width="10%">Lecture 11</td>
-            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Brute Force Algorithms</a></td>
+            <td align=center width="150px">Lecture 05</td>
+            <td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Divide and Conquer</a></td>
+            <td align=center width="150px">Lecture 11</td>
+            <td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Brute Force Algorithms</a></td>
         </tr>
         <tr>
-            <td align=center width="10%">Lecture 06</td>
-            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Transform and Conquer</a></td>
-            <td align=center width="10%">Lecture 12</td>
-            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Dynamic Programming</a></td>
+            <td align=center width="150px">Lecture 06</td>
+            <td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Transform and Conquer</a></td>
+            <td align=center width="150px">Lecture 12</td>
+            <td align=left width="400px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Dynamic Programming</a></td>
         </tr>
     </tbody>
 </table>
