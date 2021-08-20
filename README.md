@@ -51,17 +51,52 @@ Data Structures and Algorithms Analysis Training for computer science students.
 
 ### `Discrete Mathematics` Lectures
 
-
-
-| `Module 1`  | Proofs and Structures        | `Module 2`  | Graphs and Trees             |
-|:-----------:|:----------------------------:|:-----------:|:----------------------------:|
-| Lecture 01  | [The Foundations of Proofs](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)                                | Lecture 07  | [Probability](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) |
-| Lecture 02  | [Sets and Functions](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)                                       | Lecture 08  | [Counting Techniques](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) |
-| Lecture 03  | [Sequences and Series](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)                                     | Lecture 09  | [Relations](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) |
-| Lecture 04  | [Propositional logic and Predicate logic](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)                    | Lecture 10  | [Graphs](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) |
-| Lecture 05  | [Number Theory](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)                                            | Lecture 11  | [Trees](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) |
-| Lecture 06  | [Induction and Recursion](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)                                  | Lecture 12  | [Boolean Algebra](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) |
-| | <img width=333>                           | | <img width=333>                           |
+<table>
+    <tbody>
+        <tr>
+            <td align=center width="10%">Module 1</td>
+            <td align=center width="40%">Proofs and Structures</td>
+            <td align=center width="10%">Module 2</td>
+            <td align=center width="40%">Graphs and Trees</td>
+        </tr>
+        <tr>
+            <td align=center width="10%">Lecture 01</td>
+            <td align=center width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">The Foundations of Proofs</a></td>
+            <td align=center width="10%">Lecture 07</td>
+            <td align=center width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Probability</a></td>
+        </tr>
+        <tr>
+            <td align=center width="10%">Lecture 02</td>
+            <td align=center width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Sets and Functions</a></td>
+            <td align=center width="10%">Lecture 08</td>
+            <td align=center width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Counting Techniques</a></td>
+        </tr>
+        <tr>
+            <td align=center width="10%">Lecture 03</td>
+            <td align=center width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Sequences and Series</a></td>
+            <td align=center width="10%">Lecture 09</td>
+            <td align=center width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Relations</a></td>
+        </tr>
+        <tr>
+            <td align=center width="10%">Lecture 04</td>
+            <td align=center width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Propositional logic and Predicate logic</a></td>
+            <td align=center width="10%">Lecture 10</td>
+            <td align=center width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Graphs</a></td>
+        </tr>
+        <tr>
+            <td align=center width="10%">Lecture 05</td>
+            <td align=center width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Number Theory</a></td>
+            <td align=center width="10%">Lecture 11</td>
+            <td align=center width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Trees</a></td>
+        </tr>
+        <tr>
+            <td align=center width="10%">Lecture 06</td>
+            <td align=center width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Induction and Recursion</a></td>
+            <td align=center width="10%">Lecture 12</td>
+            <td align=center width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Boolean Algebra</a></td>
+        </tr>
+    </tbody>
+</table>
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg">
 <br>
