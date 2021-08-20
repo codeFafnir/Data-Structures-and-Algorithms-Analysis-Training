@@ -12,9 +12,7 @@
 Data Structures and Algorithms Analysis Training Lectures for computer science students.
 
 <img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
-<br>
-<br>
-<br>
+<br><br><br><br>
 
 ### `Discrete Mathematics` Lectures
 
