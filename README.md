@@ -22,6 +22,26 @@ Data Structures and Algorithms Analysis Training for computer science students.
             <h3><td align=center width="20%">📋 Modules</td></h3>
         </tr>
         <tr>
+            <h2><td align=center width="5%">300</td></h2>
+            <h2><td align=center width="20%">🕓 Hours</td></h2>
+            <h2><td align=center width="5%">30</td></h2>
+            <h2><td align=center width="20%">📆 Weeks</td></h2>
+            <h2><td align=center width="5%">3</td></h2>
+            <h2><td align=center width="20%">📂 Courses</td></h2>
+            <h2><td align=center width="5%">6</td></h2>
+            <h2><td align=center width="20%">📋 Modules</td></h2>
+        </tr>
+        <tr>
+            <h1><td align=center width="5%">300</td></h1>
+            <h1><td align=center width="20%">🕓 Hours</td></h1>
+            <h1><td align=center width="5%">30</td></h1>
+            <h1><td align=center width="20%">📆 Weeks</td></h1>
+            <h1><td align=center width="5%">3</td></h1>
+            <h1><td align=center width="20%">📂 Courses</td></h1>
+            <h1><td align=center width="5%">6</td></h1>
+            <h1><td align=center width="20%">📋 Modules</td></h1>
+        </tr>
+        <tr>
             <td align=center width="5%"><h3>40</h3></td>
             <td align=center width="20%"><h3>📑 Lectures</h3></td>
             <td align=center width="5%"><h3>240</h3></td>
