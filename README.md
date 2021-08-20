@@ -51,6 +51,53 @@ Data Structures and Algorithms Analysis Training for computer science students.
 
 ### `Discrete Mathematics` Lectures
 
+<table>
+    <tbody>
+        <tr>
+            <td align=center width="10%">Module 1</td>
+            <td align=center width="40%">ModuleName</td>
+            <td align=center width="10%">Module 2</td>
+            <td align=center width="40%">ModuleName</td>
+        </tr>
+        <tr>
+            <td align=center width="10%">Lecture 01</td>
+            <td align=center width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">LectureName</a></td>
+            <td align=center width="10%">Lecture 07</td>
+            <td align=center width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">LectureName</a></td>
+        </tr>
+        <tr>
+            <td align=center width="10%">Lecture 01</td>
+            <td align=center width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">LectureName</a></td>
+            <td align=center width="10%">Lecture 07</td>
+            <td align=center width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">LectureName</a></td>
+        </tr>
+        <tr>
+            <td align=center width="10%">Lecture 01</td>
+            <td align=center width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">LectureName</a></td>
+            <td align=center width="10%">Lecture 07</td>
+            <td align=center width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">LectureName</a></td>
+        </tr>
+        <tr>
+            <td align=center width="10%">Lecture 01</td>
+            <td align=center width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">LectureName</a></td>
+            <td align=center width="10%">Lecture 07</td>
+            <td align=center width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">LectureName</a></td>
+        </tr>
+        <tr>
+            <td align=center width="10%">Lecture 01</td>
+            <td align=center width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">LectureName</a></td>
+            <td align=center width="10%">Lecture 07</td>
+            <td align=center width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">LectureName</a></td>
+        </tr>
+        <tr>
+            <td align=center width="10%">Lecture 01</td>
+            <td align=center width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">LectureName</a></td>
+            <td align=center width="10%">Lecture 07</td>
+            <td align=center width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">LectureName</a></td>
+        </tr>
+    </tbody>
+</table>
+
 | `Module 1`  | Proofs and Structures        | `Module 2`  | Graphs and Trees             |
 |:-----------:|:----------------------------:|:-----------:|:----------------------------:|
 | Lecture 01  | [The Foundations of Proofs](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)                                | Lecture 07  | [Probability](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) |
