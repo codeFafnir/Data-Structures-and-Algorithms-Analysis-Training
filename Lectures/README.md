@@ -30,9 +30,8 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
   - 
 </details>
 
-#### Lecture 02 - [Sets and Functions](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Discrete-Mathematics)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 02 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Discrete-Mathematics">Sets and Functions</summary><br>
   
   - 
   - 
@@ -41,9 +40,8 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
   - 
 </details>
 
-#### Lecture 03 - [Sequences and Series](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Discrete-Mathematics)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 03 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Discrete-Mathematics">Sequences and Series</summary><br>
   
   - 
   - 
@@ -52,9 +50,8 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
   - 
 </details>
 
-#### Lecture 04 - [Propositional logic and Predicate logic](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Discrete-Mathematics)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 04 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Discrete-Mathematics">Propositional logic and Predicate logic</summary><br>
   
   - 
   - 
@@ -63,9 +60,8 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
   - 
 </details>
 
-#### Lecture 05 - [Number Theory](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Discrete-Mathematics)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 05 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Discrete-Mathematics">Number Theory</summary><br>
   
   - 
   - 
@@ -74,9 +70,8 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
   - 
 </details>
 
-#### Lecture 06 - [Induction and Recursion](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Discrete-Mathematics)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 06 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Discrete-Mathematics">Induction and Recursion</summary><br>
   
   - 
   - 
@@ -90,9 +85,8 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
 
 ### `Module 2` Graphs and Trees
 
-#### Lecture 07 - [Probability](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Discrete-Mathematics)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 07 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Discrete-Mathematics">Probability</summary><br>
   
   - 
   - 
@@ -101,9 +95,8 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
   - 
 </details>
 
-#### Lecture 08 - [Counting Techniques](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Discrete-Mathematics)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 08 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Discrete-Mathematics">Counting Techniques</summary><br>
   
   - 
   - 
@@ -112,9 +105,8 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
   - 
 </details>
 
-#### Lecture 09 - [Relations](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Discrete-Mathematics)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 09 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Discrete-Mathematics">Relations</summary><br>
   
   - 
   - 
@@ -123,9 +115,8 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
   - 
 </details>
 
-#### Lecture 10 - [Graphs](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Discrete-Mathematics)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 10 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Discrete-Mathematics">Graphs</summary><br>
   
   - 
   - 
@@ -134,9 +125,8 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
   - 
 </details>
 
-#### Lecture 11 - [Trees](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Discrete-Mathematics)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 11 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Discrete-Mathematics">Trees</summary><br>
   
   - 
   - 
@@ -145,9 +135,8 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
   - 
 </details>
 
-#### Lecture 12 - [Boolean Algebra](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Discrete-Mathematics)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 12 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Discrete-Mathematics">Boolean Algebra</summary><br>
   
   - 
   - 
@@ -163,9 +152,8 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
 
 ### `Module 1` Linear Data Structures
 
-#### Lecture 01 - [Complexity Analysis](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Data-Structures)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 01 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Data-Structures">Complexity Analysis</summary><br>
   
   - Introduction to Data Structures
   - Execution Time Cases
@@ -174,9 +162,8 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
   - Iterative vs. Recursive Examples
 </details>
 
-#### Lecture 02 - [Array](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Data-Structures)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 02 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Data-Structures">Array</summary><br>
   
   - Introduction to Array
   - Insertion Operation
@@ -186,9 +173,8 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
   - Time Complexity & Space Complexity
 </details>
 
-#### Lecture 03 - [Linked List](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Data-Structures)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 03 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Data-Structures">Linked List</summary><br>
   
   - Introduction to Linked List
   - Insertion Operation
@@ -198,9 +184,8 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
   - Time Complexity & Space Complexity
 </details>
 
-#### Lecture 04 - [Stack](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Data-Structures)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 04 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Data-Structures">Stack</summary><br>
   
   - Introduction to Stack
   - Insertion Operation
@@ -209,9 +194,8 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
   - Time Complexity & Space Complexity
 </details>
 
-#### Lecture 05 - [Queue](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Data-Structures)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 05 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Data-Structures">Queue</summary><br>
   
   - Introduction to Queue
   - Insertion Operation
@@ -220,9 +204,8 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
   - Time Complexity & Space Complexity
 </details>
 
-#### Lecture 06 - [Deque](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Data-Structures)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 06 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Data-Structures">Deque</summary><br>
   
   - Introduction to Array
   - Insertion Operation
@@ -232,9 +215,8 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
   - Time Complexity & Space Complexity
 </details>
 
-#### Lecture 07 - [Built-in Linear Data Structures](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Data-Structures)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 07 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Data-Structures">Built-in Linear Data Structures</summary><br>
   
   - Built-in Linear Data Structures
   - Vector
@@ -249,9 +231,8 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
 
 ### `Module 2` Non-Linear Data Structures
 
-#### Lecture 08 - [Binary Tree](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Data-Structures)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 08 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Data-Structures">Binary Tree</summary><br>
   
   - Introduction to Binary Tree
   - Traverse Operation
@@ -261,9 +242,8 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
   - Time Complexity & Space Complexity
 </details>
 
-#### Lecture 09 - [Binary Search Tree](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Data-Structures)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 09 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Data-Structures">Binary Search Tree</summary><br>
   
   - Introduction to Binary Search Tree
   - Insertion Operation
@@ -274,9 +254,8 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
   - Time Complexity & Space Complexity
 </details>
 
-#### Lecture 10 - [AVL Tree](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Data-Structures)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 10 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Data-Structures">AVL Tree</summary><br>
   
   - Introduction to AVL Tree
   - Rotation Operation
@@ -287,9 +266,8 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
   - Time Complexity & Space Complexity
 </details>
 
-#### Lecture 11 - [Red Black Tree](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Data-Structures)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 11 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Data-Structures">Red Black Tree</summary><br>
   
   - Introduction to Red Black Tree
   - Rotation Operation
@@ -300,9 +278,8 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
   - Time Complexity & Space Complexity
 </details>
 
-#### Lecture 12 - [Binary Heap Tree](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Data-Structures)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 12 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Data-Structures">Binary Heap Tree</summary><br>
   
   - Introduction to Binary Heap Tree
   - Insertion Operation
@@ -311,9 +288,8 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
   - Time Complexity & Space Complexity
 </details>
 
-#### Lecture 13 - [Hash Table](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Data-Structures)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 13 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Data-Structures">Hash Table</summary><br>
   
   - Introduction to Hash Tables
   - Collision Resolution
@@ -324,18 +300,15 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
   - Time Complexity & Space Complexity
 </details>
 
-#### Lecture 14 - [Built-in Non-Linear Data Structures](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Data-Structures)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 14 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Data-Structures">Built-in Non-Linear Data Structures</summary><br>
   
   - Built-in Non-Linear Data Structures
-  - Set
-  - MultiSet
-  - Unordered MultiSet
-  - Map
-  - MultiMap
-  - Unordered MultiMap
+  - Set & MultiSet
+  - Map & MultiMap
   - Priority Queue
+  - Unordered Set & Unordered MultiSet
+  - Unordered Map & Unordered MultiMap
 </details>
 
 
@@ -345,9 +318,8 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
 
 ### `Module 1` Basic Algorithms
 
-#### Lecture 01 - [Complexity Analysis](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Algorithms-Analysis)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 01 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Algorithms-Analysis">Complexity Analysis</summary><br>
   
   - Introduction to Analysis of Algorithms
   - Execution Time Cases
@@ -357,9 +329,8 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
   - Iterative vs. Recursive Examples
 </details>
 
-#### Lecture 02 - [Sorting Algorithms](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Algorithms-Analysis)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 02 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Algorithms-Analysis">Sorting Algorithms</summary><br>
   
   - Introduction to Sorting Algorithms
   - Bubble Sort
@@ -371,9 +342,8 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
   - Heap Sort
 </details>
 
-#### Lecture 03 - [Searching Algorithms](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Algorithms-Analysis)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 03 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Algorithms-Analysis">Searching Algorithms</summary><br>
   
   - Introduction to Searching Algorithms
   - Linear Search
@@ -385,9 +355,8 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
   - Fibonacci Search
 </details>
 
-#### Lecture 04 - [Decrease and Conquer](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Algorithms-Analysis)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 04 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Algorithms-Analysis">Decrease and Conquer</summary><br>
   
   - Introduction to Decrease and Conquer
   - Decreased by a constant
@@ -398,9 +367,8 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
   - Interpolation Search
 </details>
 
-#### Lecture 05 - [Divide and Conquer](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Algorithms-Analysis)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 05 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Algorithms-Analysis">Divide and Conquer</summary><br>
   
   - Introduction to Divide and Conquer
   - Fast Power
@@ -412,9 +380,8 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
   - Convex Hull
 </details>
 
-#### Lecture 06 - [Transform and Conquer](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Algorithms-Analysis)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 06 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Algorithms-Analysis">Transform and Conquer</summary><br>
   
   - Introduction to Transform and Conquer
   - Gaussian Elimination
@@ -428,9 +395,8 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
 
 ### `Module 2` Graph Algorithms and Dynamic Programming
 
-#### Lecture 07 - [Introduction to Graph](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Algorithms-Analysis)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 07 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Algorithms-Analysis">Introduction to Graph</summary><br>
   
   - Introduction to Graph
   - Directed vs. Undirected Graph
@@ -442,9 +408,8 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
   - Bridges and Articulation Points
 </details>
 
-#### Lecture 08 - [Shortest Path Algorithms](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Algorithms-Analysis)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 08 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Algorithms-Analysis">Shortest Path Algorithms</summary><br>
   
   - Introduction to Shortest Path Algorithms
   - The Bellman Ford Algorithm
@@ -456,9 +421,8 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
   - Shortest Path in Acyclc Graph
 </details>
 
-#### Lecture 09 - [Spanning Tree Algorithms](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Algorithms-Analysis)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 09 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Algorithms-Analysis">Spanning Tree Algorithms</summary><br>
   
   - Introduction to Spanning Tree Algoirthms
   - Prim Algorithm
@@ -470,9 +434,8 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
   - Prüfer Code
 </details>
 
-#### Lecture 10 - [Greedy Algorithms](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Algorithms-Analysis)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 10 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Algorithms-Analysis">Greedy Algorithms</summary><br>
   
   - Introduction to Greedy Algorithms
   - Standard Greedy Algorithms
@@ -482,9 +445,8 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
   - Approximate Greedy Algorithms for NP Complete Problems
 </details>
 
-#### Lecture 11 - [Brute Force Algorithms](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Algorithms-Analysis)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 11 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Algorithms-Analysis">Brute Force Algorithms</summary><br>
   
   - Introduction to Brute Force Algorithms
   - Brute Force in Arrays
@@ -494,9 +456,8 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
   - Brute Force in Graph Algorithms
 </details>
 
-#### Lecture 12 - [Dynamic Programming](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Algorithms-Analysis)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 12 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Algorithms-Analysis">Dynamic Programming</summary><br>
   
   - Introduction to Dynamic Programming
   - 0-1 Knapsack
