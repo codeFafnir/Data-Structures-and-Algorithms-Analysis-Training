@@ -9,12 +9,50 @@ Data Structures and Algorithms Analysis Training for computer science students.
 
 ## :dart: `Training Summary`
 
-| `300` | :clock4:        Hours       | `30`  | :calendar:         Weeks    | `3`   | :open_file_folder:  Courses | `6`   | :clipboard:   Modules       |
-|:-----:|:---------------------------:|:-----:|:---------------------------:|:-----:|:---------------------------:|:-----:|:---------------------------:|
-| `40`  | :bookmark_tabs: Lectures    | `240` | :card_index:       Sections | `80`  | :pencil:           Quizzes  | `600` | :paperclip:   Practices     |
-| `30`  | :bulb:          Assignments | `250` | :label:            Tasks    | `40`  | :video_game:       Projects | `400` | :bookmark:    Tasks         |
-| `21`  | :books:         Textbooks   | `5`   | :desktop_computer: Udacity  | `11`  | :computer:         Coursera | `10`  | :film_strip:  YouTube       |
-|       | <img width=150>             |       | <img width=150>             |       | <img width=150>             |       | <img width=150>             |
+<table>
+    <tbody>
+        <tr>
+            <td align=center width="5%"><h2>300</h2></td>
+            <td align=center width="20%"><h2>🕓 Hours</h2></td>
+            <td align=center width="5%"><h2>30</h2></td>
+            <td align=center width="20%"><h2>📆 Weeks</h2></td>
+            <td align=center width="5%"><h2>3</h2></td>
+            <td align=center width="20%"><h2>📂 Courses</h2></td>
+            <td align=center width="5%"><h2>6</h2></td>
+            <td align=center width="20%"><h2>📋 Modules</h2></td>
+        </tr>
+        <tr>
+            <td align=center width="5%"><h2>40</h2></td>
+            <td align=center width="20%"><h2>📑 Lectures</h2></td>
+            <td align=center width="5%"><h2>240</h2></td>
+            <td align=center width="20%"><h2>📇 Sections</h2></td>
+            <td align=center width="5%"><h2>80</h2></td>
+            <td align=center width="20%"><h2>📝 Quizzes</h2></td>
+            <td align=center width="5%"><h2>600</h2></td>
+            <td align=center width="20%"><h2>📎 Practices</h2></td>
+        </tr>
+        <tr>
+            <td align=center width="5%"><h2>300</h2></td>
+            <td align=center width="20%"><h2>💡 Assignments</h2></td>
+            <td align=center width="5%"><h2>30</h2></td>
+            <td align=center width="20%"><h2>🏷️ Tasks</h2></td>
+            <td align=center width="5%"><h2>3</h2></td>
+            <td align=center width="20%"><h2>🎮 Projects</h2></td>
+            <td align=center width="5%"><h2>6</h2></td>
+            <td align=center width="20%"><h2>🔖 Tasks</h2></td>
+        </tr>
+        <tr>
+            <td align=center width="5%"><h2>300</h2></td>
+            <td align=center width="20%"><h2>📚 Textbooks</h2></td>
+            <td align=center width="5%"><h2>30</h2></td>
+            <td align=center width="20%"><h2>🖥️ Udacity</h2></td>
+            <td align=center width="5%"><h2>3</h2></td>
+            <td align=center width="20%"><h2>💻 Coursera</h2></td>
+            <td align=center width="5%"><h2>6</h2></td>
+            <td align=center width="20%"><h2>🎞️ YouTube</h2></td>
+        </tr>
+    </tbody>
+</table>
 
 ### :pencil2: :page_facing_up: :ledger:  `keep writing your notes and enjoy learning`
 
