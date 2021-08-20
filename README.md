@@ -486,9 +486,9 @@ Data Structures and Algorithms Analysis Training for computer science students.
 <table>
     <tbody>
         <tr>
-<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/data-structures-and-algorithms-analysis/README.md">Grokking Algorithms, Aditya Y. Bhargava</a></td>
-<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/data-structures-and-algorithms-analysis/README.md">Introduction to the Design and Analysis of Algorithms, Anany V. Levitin</a></td>
 <td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/data-structures-and-algorithms-analysis/README.md">Data Structures and Algorithms TutorialsPoint</a></td>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/data-structures-and-algorithms-analysis/README.md">Introduction to the Design and Analysis of Algorithms, Anany V. Levitin</a></td>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/data-structures-and-algorithms-analysis/README.md">Grokking Algorithms, Aditya Y. Bhargava</a></td>
         </tr>
         <tr>
 <td align=center width="33%"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Data-Structures-and-Algorithms-TutorialsPoint.jpg"></td>
@@ -518,57 +518,57 @@ Data Structures and Algorithms Analysis Training for computer science students.
         </tr>
         <tr>
 <td align=center width="33%"></img>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="33%"></img>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego.jpg" width="250"></img>
 </td>
 <td align=center width="33%"></img>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/shanghai%20jiao%20tong%20university.jpg" width="33%"></img>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/shanghai%20jiao%20tong%20university.jpg" width="250"></img>
 </td>
 <td align=center width="33%"></img>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego.jpg" width="33%"></img>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="250"></img>
 </td>
         </tr>
         <tr>
 <td align=center width="33%"></img>
-<a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Data Structures and Performance by University of California San Diego</a>
+<a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Algorithms Specialization by Stanford University</a>
 </td>
 <td align=center width="33%"></img>
 <a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Competitive Programming by Moscow Institute of Physics and Technology</a>
 </td>
 <td align=center width="33%"></img>
-<a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Algorithms Specialization by Stanford University</a>
+<a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Data Structures and Performance by University of California San Diego</a>
 </td>
         </tr>
         <tr>
 <td align=center width="33%"></img>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/stanford%20university.jpg" width="33%"></img>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/stanford%20university.jpg" width="250"></img>
 </td>
 <td align=center width="33%"></img>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/moscow%20institute%20of%20physics%20and%20technology.jpg" width="33%"></img>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/moscow%20institute%20of%20physics%20and%20technology.jpg" width="250"></img>
 </td>
 <td align=center width="33%"></img>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego.jpg" width="33%"></img>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego.jpg" width="250"></img>
 </td>
         </tr>
         <tr>
 <td align=center width="33%"></img>
-<a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Data Structures and Algorithms Specialization by University of California San Diego</a>
+<a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Geometric Algorithms by EIT Digital</a>
 </td>
 <td align=center width="33%"></img>
 <a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Algorithms by Princeton University</a>
 </td>
 <td align=center width="33%"></img>
-<a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Geometric Algorithms by EIT Digital</a>
+<a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md">Data Structures and Algorithms Specialization by University of California San Diego</a>
 </td>
         </tr>
         <tr>
 <td align=center width="33%"></img>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/eit%20digital.jpg" width="33%"></img>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/eit%20digital.jpg" width="250"></img>
 </td>
 <td align=center width="33%"></img>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/princeton%20university.jpg" width="33%"></img>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/princeton%20university.jpg" width="250"></img>
 </td>
 <td align=center width="33%"></img>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego.jpg" width="33%"></img>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego.jpg" width="250"></img>
 </td>
         </tr>
         <tr>
@@ -583,10 +583,10 @@ Data Structures and Algorithms Analysis Training for computer science students.
         </tr>
         <tr>
 <td align=center width="33%"></img>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/princeton%20university.jpg" width="33%"></img>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/princeton%20university.jpg" width="250"></img>
 </td>
 <td align=center width="33%"></img>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/saint%20petersburg%20state%20university.jpg" width="33%"></img>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/saint%20petersburg%20state%20university.jpg" width="250"></img>
 </td>
 <td align=center width="33%"></img>
 </td>
