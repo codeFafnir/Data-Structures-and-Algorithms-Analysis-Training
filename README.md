@@ -30,6 +30,8 @@ Data Structures and Algorithms Analysis Training for computer science students.
     * [Data Structures Lectures](#Data-Structures-Lectures)
     * [Algorithms Analysis Lectures](#Algorithms-Analysis-Lectures)
   * [Assignments](#Assignments)
+    * [Data Structures Assignments](#Data-Structures-Assignments) 
+    * [Algorithms Analysis Assignments](#Algorithms-Analysis-Assignments)
   * [Educational-Projects](#Educational-Projects)
   * [Textbooks](#Textbooks)
     * [Discrete Mathematics Textbooks](#Discrete-Mathematics-Textbooks)
@@ -38,18 +40,15 @@ Data Structures and Algorithms Analysis Training for computer science students.
   * [YouTube-Playlists](#YouTube-Playlists)
 
 <br>
-
 <img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
-<br>
-<br>
-<br>
+<br><br>
 
 ## [`Lectures`](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) 
 ### :bookmark_tabs: `1 Lecture` :clock4: `3 Hours` :card_index: `6 Sections` :pencil: `2 Quizzes` :paperclip: `15 Practices` 
 <br>
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/discrete-mathematics.jpg">
-<br>
+<br><br>
 
 ### `Discrete Mathematics` Lectures
 
@@ -101,10 +100,9 @@ Data Structures and Algorithms Analysis Training for computer science students.
 </table>
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg">
-<br>
+<br><br>
 
 ### `Data Structures` Lectures
-
 
 <table>
     <tbody>
@@ -160,7 +158,7 @@ Data Structures and Algorithms Analysis Training for computer science students.
 </table>
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg">
-<br>
+<br><br>
 
 ### `Algorithms Analysis` Lectures
 
@@ -213,16 +211,16 @@ Data Structures and Algorithms Analysis Training for computer science students.
 
 <br>
 <img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
-<br>
-<br>
+<br><br>
 
 ## [`Assignments`](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments)
 ### :bulb: `1 Assignment` :clock4: `10 Hours` :label: `10 Tasks`
 <br>
 
-### `Data Structures` Assignments
-
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg">
+<br>
+
+### `Data Structures` Assignments
 
 <table>
     <tbody>
@@ -271,20 +269,69 @@ Data Structures and Algorithms Analysis Training for computer science students.
     </tbody>
 </table>
 
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg">
+<br>
+
 ### `Algorithms Analysis` Assignments
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg">
-
-#### Assignment 11 - Data Structure Problems in [codeforces-phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-3)
-#### Assignment 12 - String Problems in [codeforces-phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-3)
-#### Assignment 13 - Mathematics Problems in [codeforces-phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-3)
-#### Assignment 14 - Greedy Problems in [codeforces-phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-3)
-#### Assignment 15 - Brute Force Problems in [codeforces-phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-3)
-#### Assignment 16 - Data Structure Problems in [codeforces-phase-2-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-4)
-#### Assignment 17 - String Problems in [codeforces-phase-2-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-4)
-#### Assignment 18 - Mathematics Problems in [codeforces-phase-2-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-4)
-#### Assignment 19 - Greedy Problems in [codeforces-phase-2-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-4)
-#### Assignment 20 - Brute Force Problems in [codeforces-phase-2-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-4)
+<table>
+    <tbody>
+        <tr>
+            <td align=center width="10%"># Assignment</td>
+            <td align=center width="40%">Assignment Name</td>
+            <td align=center width="10%"># Assignment</td>
+            <td align=center width="40%">Assignment Name</td>
+        </tr>
+        <tr>
+            <td align=center width="10%">Assignment 01</td>
+            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Greedy Problems I in Codeforces</a></td>
+            <td align=center width="10%">Assignment 09</td>
+            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Searching Algorithms Problems in HackerEarth</a></td>
+        </tr>
+        <tr>
+            <td align=center width="10%">Assignment 02</td>
+            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Mathematics Problems I in Codeforces</a></td>
+            <td align=center width="10%">Assignment 10</td>
+            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Sorting Algorithms Problems in HackerEarth</a></td>
+        </tr>
+        <tr>
+            <td align=center width="10%">Assignment 03</td>
+            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Greedy Problems II in Codeforces</a></td>
+            <td align=center width="10%">Assignment 11</td>
+            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Greedy Algorithms Problems in HackerEarth</a></td>
+        </tr>
+        <tr>
+            <td align=center width="10%">Assignment 04</td>
+            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Mathematics Problems II in Codeforces</a></td>
+            <td align=center width="10%">Assignment 12</td>
+            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Graph Algorithms Problems in HackerEarth</a></td>
+        </tr>
+        <tr>
+            <td align=center width="10%">Assignment 05</td>
+            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Brute Force Problems in Codeforces</a></td>
+            <td align=center width="10%">Assignment 13</td>
+            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Dynamic Programming Problems in HackerEarth</a></td>
+        </tr>
+        <tr>
+            <td align=center width="10%">Assignment 06</td>
+            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Divide and Conquer Problems in Codeforces</a></td>
+            <td align=center width="10%">Assignment 14</td>
+            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Searching and Sorting Algorithms Problems in HackerRank</a></td>
+        </tr>
+        <tr>
+            <td align=center width="10%">Assignment 07</td>
+            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Graph Problems in Codeforces</a></td>
+            <td align=center width="10%">Assignment 15</td>
+            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Graph Algorithms Problems in HackerRank</a></td>
+        </tr>
+        <tr>
+            <td align=center width="10%">Assignment 08</td>
+            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Dynamic Programming Problems in Codeforces</a></td>
+            <td align=center width="10%">Assignment 16</td>
+            <td align=left width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Dynamic Programming Problems in HackerRank</a></td>
+        </tr>
+    </tbody>
+</table>
 
 <br>
 <br>
