@@ -12,31 +12,48 @@ Data Structures and Algorithms Analysis Training for computer science students.
 <table>
     <tbody>
         <tr>
-            <td align=center width="200px">300 🕓 Hours</td>
-            <td align=center width="200px">30 📆 Weeks</td>
-            <td align=center width="200px">3 📂 Courses</td>
-            <td align=center width="200px">6 📋 Modules</td>
+            <td align=center width="25px">300</td>
+            <td align=center width="175px">🕓 Hours</td>
+            <td align=center width="25px">30</td>
+            <td align=center width="175px">📆 Weeks</td>
+            <td align=center width="25px">3</td>
+            <td align=center width="175px">📂 Courses</td>
+            <td align=center width="25px">6</td>
+            <td align=center width="175px">📋 Modules</td>
         </tr>
         <tr>
-            <td align=center width="200px">40 📑 Lectures</td>
-            <td align=center width="200px">240 📇 Sections</td>
-            <td align=center width="200px">80 📝 Quizzes</td>
-            <td align=center width="200px">600 📎 Practices</td>
+            <td align=center width="25px">40</td>
+            <td align=center width="175px">📑 Lectures</td>
+            <td align=center width="25px">240</td>
+            <td align=center width="175px">📇 Sections</td>
+            <td align=center width="25px">80</td>
+            <td align=center width="175px">📝 Quizzes</td>
+            <td align=center width="25px">600</td>
+            <td align=center width="175px">📎 Practices</td>
         </tr>
         <tr>
-            <td align=center width="200px">30 💡 Assignments</td>
-            <td align=center width="200px">300 🏷️ Tasks</td>
-            <td align=center width="200px">40 🎮 Projects</td>
-            <td align=center width="200px">400 🔖 Tasks</td>
+            <td align=center width="25px">30</td>
+            <td align=center width="175px">💡 Assignments</td>
+            <td align=center width="25px">300</td>
+            <td align=center width="175px">🏷️ Tasks</td>
+            <td align=center width="25px">40</td>
+            <td align=center width="175px">🎮 Projects</td>
+            <td align=center width="25px">400</td>
+            <td align=center width="175px">🔖 Tasks</td>
         </tr>
         <tr>
-            <td align=center width="200px">20 📚 Textbooks</td>
-            <td align=center width="200px">5 🖥️ Udacity</td>
-            <td align=center width="200px">10 💻 Coursera</td>
-            <td align=center width="200px">30 🎞️ YouTube</td>
+            <td align=center width="25px">20</td>
+            <td align=center width="175px">📚 Textbooks</td>
+            <td align=center width="25px">5</td>
+            <td align=center width="175px">🖥️ Udacity</td>
+            <td align=center width="25px">10</td>
+            <td align=center width="175px">💻 Coursera</td>
+            <td align=center width="25px">30</td>
+            <td align=center width="175px">🎞️ YouTube</td>
         </tr>
     </tbody>
 </table>
+
 
 ### :pencil2: :page_facing_up: :ledger:  `keep writing your notes and enjoy learning`
 
