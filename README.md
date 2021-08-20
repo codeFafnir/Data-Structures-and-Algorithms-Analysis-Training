@@ -12,38 +12,31 @@ Data Structures and Algorithms Analysis Training for computer science students.
 <table>
     <tbody>
         <tr>
-            <td align=center width="25%">300 🕓 Hours</td>
-            <td align=center width="25%">30 📆 Weeks</td>
-            <td align=center width="25%">3 📂 Courses</td>
-            <td align=center width="25%">6 📋 Modules</td>
+            <td align=center width="200px">300 🕓 Hours</td>
+            <td align=center width="200px">30 📆 Weeks</td>
+            <td align=center width="200px">3 📂 Courses</td>
+            <td align=center width="200px">6 📋 Modules</td>
         </tr>
         <tr>
-            <td align=center width="25%">40 📑 Lectures</td>
-            <td align=center width="25%">240 📇 Sections</td>
-            <td align=center width="25%">80 📝 Quizzes</td>
-            <td align=center width="25%">600 📎 Practices</td>
+            <td align=center width="200px">40 📑 Lectures</td>
+            <td align=center width="200px">240 📇 Sections</td>
+            <td align=center width="200px">80 📝 Quizzes</td>
+            <td align=center width="200px">600 📎 Practices</td>
         </tr>
         <tr>
-            <td align=center width="25%">30 💡 Assignments</td>
-            <td align=center width="25%">300 🏷️ Tasks</td>
-            <td align=center width="25%">40 🎮 Projects</td>
-            <td align=center width="25%">400 🔖 Tasks</td>
+            <td align=center width="200px">30 💡 Assignments</td>
+            <td align=center width="200px">300 🏷️ Tasks</td>
+            <td align=center width="200px">40 🎮 Projects</td>
+            <td align=center width="200px">400 🔖 Tasks</td>
         </tr>
         <tr>
-            <td align=center width="25%">20 📚 Textbooks</td>
-            <td align=center width="25%">5 🖥️ Udacity</td>
-            <td align=center width="25%">10 💻 Coursera</td>
-            <td align=center width="25%">30 🎞️ YouTube</td>
+            <td align=center width="200px">20 📚 Textbooks</td>
+            <td align=center width="200px">5 🖥️ Udacity</td>
+            <td align=center width="200px">10 💻 Coursera</td>
+            <td align=center width="200px">30 🎞️ YouTube</td>
         </tr>
     </tbody>
 </table>
-
-
-| `300` :clock4:       Hours       | `30` :calendar:         Weeks    | `3`  :open_file_folder: Courses  | `6`  :clipboard:   Modules       |
-|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|
-| `40` :bookmark_tabs: Lectures    | `240`:card_index:       Sections | `80` :pencil:           Quizzes  | `600`:paperclip:   Practices     |
-| `30` :bulb:          Assignments | `300`:label:            Tasks    | `40` :video_game:       Projects | `400`:bookmark:    Tasks         |
-| `20` :books:         Textbooks   | `5`  :desktop_computer: Udacity  | `10` :computer:         Coursera | `30` :film_strip:  YouTube       |
 
 ### :pencil2: :page_facing_up: :ledger:  `keep writing your notes and enjoy learning`
 
