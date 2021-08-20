@@ -21,7 +21,7 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
 ### `Module 1` Proofs and Structures
 
 <details>
-  <summary>Lecture 01 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Discrete-Mathematics">The Foundations of Proofs</summary><br>
+  <summary>Lecture 01 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Discrete-Mathematics">The Foundations of Proofs</a></summary><br>
   
   - 
   - 
@@ -31,7 +31,7 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
 </details>
 
 <details>
-  <summary>Lecture 02 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Discrete-Mathematics">Sets and Functions</summary><br>
+  <summary>Lecture 02 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Discrete-Mathematics">Sets and Functions</a></summary><br>
   
   - 
   - 
@@ -41,7 +41,7 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
 </details>
 
 <details>
-  <summary>Lecture 03 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Discrete-Mathematics">Sequences and Series</summary><br>
+  <summary>Lecture 03 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Discrete-Mathematics">Sequences and Series</a></summary><br>
   
   - 
   - 
@@ -51,7 +51,7 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
 </details>
 
 <details>
-  <summary>Lecture 04 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Discrete-Mathematics">Propositional logic and Predicate logic</summary><br>
+  <summary>Lecture 04 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Discrete-Mathematics">Propositional logic and Predicate logic</a></summary><br>
   
   - 
   - 
@@ -61,7 +61,7 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
 </details>
 
 <details>
-  <summary>Lecture 05 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Discrete-Mathematics">Number Theory</summary><br>
+  <summary>Lecture 05 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Discrete-Mathematics">Number Theory</a></summary><br>
   
   - 
   - 
@@ -71,7 +71,7 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
 </details>
 
 <details>
-  <summary>Lecture 06 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Discrete-Mathematics">Induction and Recursion</summary><br>
+  <summary>Lecture 06 - <a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Discrete-Mathematics">Induction and Recursion</a></summary><br>
   
   - 
   - 
