@@ -22,7 +22,7 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
 
 #### Lecture 01 - [The Foundations of Proofs](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Discrete-Mathematics)
 <details>
-  <summary>Agenda</summary><br>
+  <summary>Lecture 01 - [The Foundations of Proofs](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures/Discrete-Mathematics)</summary><br>
   
   - 
   - 
