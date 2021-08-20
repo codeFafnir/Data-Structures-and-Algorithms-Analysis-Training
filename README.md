@@ -103,16 +103,58 @@ Data Structures and Algorithms Analysis Training for computer science students.
 
 ### `Data Structures` Lectures
 
-| `Module 1`  | Linear Data Structures       | `Module 2`  | Non-Linear Data Structures   |
-|:-----------:|:----------------------------:|:-----------:|:----------------------------:|
-| Lecture 01  | [Complexity Analysis](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)                                      | Lecture 08 | [Binary Tree](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) |
-| Lecture 02  | [Array](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)                                                    | Lecture 09 | [Binary Search Tree](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) |
-| Lecture 03  | [Linked List](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)                                              | Lecture 10 | [AVL Tree](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) |
-| Lecture 04  | [Stack](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)                                                    | Lecture 11 | [Red Black Tree](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) |
-| Lecture 05  | [Queue](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)                                                    | Lecture 12 | [Binary Heap Tree](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) |
-| Lecture 06  | [Deque](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)                                                    | Lecture 13 | [Hash Table](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) |
-| Lecture 07  | [Built-in Linear Data Structures](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures)                          | Lecture 14 | [Built-in Non-Linear Data Structures](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) |
-| | <img width=333>                           | | <img width=333>                           |
+<table>
+    <tbody>
+        <tr>
+            <td align=center width="10%">Module 1</td>
+            <td align=center width="40%">Linear Data Structures</td>
+            <td align=center width="10%">Module 2</td>
+            <td align=center width="40%">Non-Linear Data Structures</td>
+        </tr>
+        <tr>
+            <td align=center width="10%">Lecture 01</td>
+            <td align=center width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Complexity Analysis</a></td>
+            <td align=center width="10%">Lecture 08</td>
+            <td align=center width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Binary Tree</a></td>
+        </tr>
+        <tr>
+            <td align=center width="10%">Lecture 02</td>
+            <td align=center width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Array</a></td>
+            <td align=center width="10%">Lecture 09</td>
+            <td align=center width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Binary Search Tree</a></td>
+        </tr>
+        <tr>
+            <td align=center width="10%">Lecture 03</td>
+            <td align=center width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Linked List</a></td>
+            <td align=center width="10%">Lecture 10</td>
+            <td align=center width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">AVL Tree</a></td>
+        </tr>
+        <tr>
+            <td align=center width="10%">Lecture 04</td>
+            <td align=center width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Stack</a></td>
+            <td align=center width="10%">Lecture 11</td>
+            <td align=center width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Red Black Tree</a></td>
+        </tr>
+        <tr>
+            <td align=center width="10%">Lecture 05</td>
+            <td align=center width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Queue</a></td>
+            <td align=center width="10%">Lecture 12</td>
+            <td align=center width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Binary Heap Tree</a></td>
+        </tr>
+        <tr>
+            <td align=center width="10%">Lecture 06</td>
+            <td align=center width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Deque</a></td>
+            <td align=center width="10%">Lecture 13</td>
+            <td align=center width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Hash Table</a></td>
+        </tr>
+        <tr>
+            <td align=center width="10%">Lecture 07</td>
+            <td align=center width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Built-in Linear Data Structures</a></td>
+            <td align=center width="10%">Lecture 14</td>
+            <td align=center width="40%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures">Built-in Non-Linear Data Structures</a></td>
+        </tr>
+    </tbody>
+</table>
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg">
 <br>
