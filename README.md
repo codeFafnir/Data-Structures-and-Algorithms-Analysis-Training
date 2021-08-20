@@ -518,13 +518,13 @@ Data Structures and Algorithms Analysis Training for computer science students.
         </tr>
         <tr>
 <td align=center width="33%"></img>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego.jpg" width="250"></img>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego.jpg" width="200"></img>
 </td>
 <td align=center width="33%"></img>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/shanghai%20jiao%20tong%20university.jpg" width="250"></img>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/shanghai%20jiao%20tong%20university.jpg" width="200"></img>
 </td>
 <td align=center width="33%"></img>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="250"></img>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="200"></img>
 </td>
         </tr>
         <tr>
@@ -540,13 +540,13 @@ Data Structures and Algorithms Analysis Training for computer science students.
         </tr>
         <tr>
 <td align=center width="33%"></img>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/stanford%20university.jpg" width="250"></img>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/stanford%20university.jpg" width="200"></img>
 </td>
 <td align=center width="33%"></img>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/moscow%20institute%20of%20physics%20and%20technology.jpg" width="250"></img>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/moscow%20institute%20of%20physics%20and%20technology.jpg" width="200"></img>
 </td>
 <td align=center width="33%"></img>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego.jpg" width="250"></img>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego.jpg" width="200"></img>
 </td>
         </tr>
         <tr>
@@ -562,13 +562,13 @@ Data Structures and Algorithms Analysis Training for computer science students.
         </tr>
         <tr>
 <td align=center width="33%"></img>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/eit%20digital.jpg" width="250"></img>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/eit%20digital.jpg" width="200"></img>
 </td>
 <td align=center width="33%"></img>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/princeton%20university.jpg" width="250"></img>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/princeton%20university.jpg" width="200"></img>
 </td>
 <td align=center width="33%"></img>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego.jpg" width="250"></img>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego.jpg" width="200"></img>
 </td>
         </tr>
         <tr>
@@ -583,10 +583,10 @@ Data Structures and Algorithms Analysis Training for computer science students.
         </tr>
         <tr>
 <td align=center width="33%"></img>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/princeton%20university.jpg" width="250"></img>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/princeton%20university.jpg" width="200"></img>
 </td>
 <td align=center width="33%"></img>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/saint%20petersburg%20state%20university.jpg" width="250"></img>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/saint%20petersburg%20state%20university.jpg" width="200"></img>
 </td>
 <td align=center width="33%"></img>
 </td>
