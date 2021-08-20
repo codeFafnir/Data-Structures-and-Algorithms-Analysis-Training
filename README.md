@@ -47,7 +47,7 @@ Data Structures and Algorithms Analysis Training for computer science students.
 <br>
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/discrete-mathematics.jpg">
-<br>
+<br><br><br>
 
 ### `Discrete Mathematics` Lectures
 
