@@ -12,44 +12,44 @@ Data Structures and Algorithms Analysis Training for computer science students.
 <table>
     <tbody>
         <tr>
-            <td align=center width="5%"><h2>300</h2></td>
-            <td align=center width="20%"><h2>🕓 Hours</h2></td>
-            <td align=center width="5%"><h2>30</h2></td>
-            <td align=center width="20%"><h2>📆 Weeks</h2></td>
-            <td align=center width="5%"><h2>3</h2></td>
-            <td align=center width="20%"><h2>📂 Courses</h2></td>
-            <td align=center width="5%"><h2>6</h2></td>
-            <td align=center width="20%"><h2>📋 Modules</h2></td>
+            <td align=center width="5%"><h4>300</h4></td>
+            <td align=center width="20%"><h4>🕓 Hours</h4></td>
+            <td align=center width="5%"><h4>30</h4></td>
+            <td align=center width="20%"><h4>📆 Weeks</h4></td>
+            <td align=center width="5%"><h4>3</h4></td>
+            <td align=center width="20%"><h4>📂 Courses</h4></td>
+            <td align=center width="5%"><h4>6</h4></td>
+            <td align=center width="20%"><h4>📋 Modules</h4></td>
         </tr>
         <tr>
-            <td align=center width="5%"><h2>40</h2></td>
-            <td align=center width="20%"><h2>📑 Lectures</h2></td>
-            <td align=center width="5%"><h2>240</h2></td>
-            <td align=center width="20%"><h2>📇 Sections</h2></td>
-            <td align=center width="5%"><h2>80</h2></td>
-            <td align=center width="20%"><h2>📝 Quizzes</h2></td>
-            <td align=center width="5%"><h2>600</h2></td>
-            <td align=center width="20%"><h2>📎 Practices</h2></td>
+            <td align=center width="5%"><h4>40</h4></td>
+            <td align=center width="20%"><h4>📑 Lectures</h4></td>
+            <td align=center width="5%"><h4>240</h4></td>
+            <td align=center width="20%"><h4>📇 Sections</h4></td>
+            <td align=center width="5%"><h4>80</h4></td>
+            <td align=center width="20%"><h4>📝 Quizzes</h4></td>
+            <td align=center width="5%"><h4>600</h4></td>
+            <td align=center width="20%"><h4>📎 Practices</h4></td>
         </tr>
         <tr>
-            <td align=center width="5%"><h2>300</h2></td>
-            <td align=center width="20%"><h2>💡 Assignments</h2></td>
-            <td align=center width="5%"><h2>30</h2></td>
-            <td align=center width="20%"><h2>🏷️ Tasks</h2></td>
-            <td align=center width="5%"><h2>3</h2></td>
-            <td align=center width="20%"><h2>🎮 Projects</h2></td>
-            <td align=center width="5%"><h2>6</h2></td>
-            <td align=center width="20%"><h2>🔖 Tasks</h2></td>
+            <td align=center width="5%"><h4>300</h4></td>
+            <td align=center width="20%"><h4>💡 Assignments</h4></td>
+            <td align=center width="5%"><h4>30</h4></td>
+            <td align=center width="20%"><h4>🏷️ Tasks</h4></td>
+            <td align=center width="5%"><h4>3</h4></td>
+            <td align=center width="20%"><h4>🎮 Projects</h4></td>
+            <td align=center width="5%"><h4>6</h4></td>
+            <td align=center width="20%"><h4>🔖 Tasks</h4></td>
         </tr>
         <tr>
-            <td align=center width="5%"><h2>20</h2></td>
-            <td align=center width="20%"><h2>📚 Textbooks</h2></td>
-            <td align=center width="5%"><h2>5</h2></td>
-            <td align=center width="20%"><h2>🖥️ Udacity</h2></td>
-            <td align=center width="5%"><h2>10</h2></td>
-            <td align=center width="20%"><h2>💻 Coursera</h2></td>
-            <td align=center width="5%"><h2>30</h2></td>
-            <td align=center width="20%"><h2>🎞️ YouTube</h2></td>
+            <td align=center width="5%"><h4>20</h4></td>
+            <td align=center width="20%"><h4>📚 Textbooks</h4></td>
+            <td align=center width="5%"><h4>5</h4></td>
+            <td align=center width="20%"><h4>🖥️ Udacity</h4></td>
+            <td align=center width="5%"><h4>10</h4></td>
+            <td align=center width="20%"><h4>💻 Coursera</h4></td>
+            <td align=center width="5%"><h4>30</h4></td>
+            <td align=center width="20%"><h4>🎞️ YouTube</h4></td>
         </tr>
     </tbody>
 </table>
