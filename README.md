@@ -12,14 +12,14 @@ Data Structures and Algorithms Analysis Training for computer science students.
 <table>
     <tbody>
         <tr>
-            <h3><td align=center width="5%">300</td></h3>
-            <h3><td align=center width="20%"><h3>🕓 Hours</td></h3>
-            <h3><td align=center width="5%"><h3>30</td></h3>
-            <h3><td align=center width="20%"><h3>📆 Weeks</td></h3>
-            <h3><td align=center width="5%"><h3>3</td></h3>
-            <h3><td align=center width="20%"><h3>📂 Courses</td></h3>
-            <h3><td align=center width="5%"><h3>6</td></h3>
-            <h3><td align=center width="20%"><h3>📋 Modules</td></h3>
+            <td align=center width="5%"><h3>300</h3></td>
+            <td align=center width="20%"><h3>🕓 Hours</h3></td>
+            <td align=center width="5%"><h3>30</h3></td>
+            <td align=center width="20%"><h3>📆 Weeks</h3></td>
+            <td align=center width="5%"><h3>3</h3></td>
+            <td align=center width="20%"><h3>📂 Courses</h3></td>
+            <td align=center width="5%"><h3>6</h3></td>
+            <td align=center width="20%"><h3>📋 Modules</h3></td>
         </tr>
         <tr>
             <td align=center width="5%"><h3>40</h3></td>
