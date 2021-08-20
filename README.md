@@ -8,12 +8,12 @@
 Data Structures and Algorithms Analysis Training for computer science students.
 
 ## :dart: `Training Summary`
-| `300` | :clock4:        Hours       | `30`  | :calendar:         Weeks    | `3`   | :open_file_folder:  Courses  | `6`   | :clipboard:   Modules       |
-|:-----:|:---------------------------:|:-----:|:---------------------------:|:-----:|:----------------------------:|:-----:|:---------------------------:|
-| `40`  | :bookmark_tabs: Lectures    | `240` | :card_index:       Sections | `80`  | :pencil:            Quizzes  | `600` | :paperclip:   Practices     |
-| `30`  | :bulb:          Assignments | `300` | :label:            Tasks    | `40`  | :video_game:        Projects | `400` | :bookmark:    Tasks         |
-| `20`  | :books:         Textbooks   | `5`   | :desktop_computer: Udacity  | `10`  | :computer:          Coursera | `30`  | :film_strip:  YouTube       |
-|       |<img width="150px">          |       |<img width="150px">          |       |<img width="150px">           |       |<img width="150px">          |
+| `300` | :clock4:        Hours       | `30`  | :calendar:         Weeks    | `3`   | :open_file_folder: Courses  | `6`   | :clipboard:   Modules       |
+|:-----:|:---------------------------:|:-----:|:---------------------------:|:-----:|:---------------------------:|:-----:|:---------------------------:|
+| `40`  | :bookmark_tabs: Lectures    | `240` | :card_index:       Sections | `80`  | :pencil:           Quizzes  | `600` | :paperclip:   Practices     |
+| `30`  | :bulb:          Assignments | `300` | :label:            Tasks    | `40`  | :video_game:       Projects | `400` | :bookmark:    Tasks         |
+| `20`  | :books:         Textbooks   | `5`   | :desktop_computer: Udacity  | `10`  | :computer:         Coursera | `30`  | :film_strip:  YouTube       |
+|       |_____________________________|       |_____________________________|       |_____________________________|       |_____________________________|
 
 ### :pencil2: :page_facing_up: :ledger:  `keep writing your notes and enjoy learning`
 
