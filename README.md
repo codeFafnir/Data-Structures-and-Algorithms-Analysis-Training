@@ -1,13 +1,9 @@
 # Data Structures and Algorithms Analysis Training
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/discrete-mathematics.jpg">
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg">
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg">
-<br>
-<br>
-<br>
-<br>
-<br>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/discrete-mathematics.jpg"></img>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg"></img>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg"></img>
+<br><br><br><br><br>
 
 Data Structures and Algorithms Analysis Training for computer science students.
 
@@ -40,14 +36,14 @@ Data Structures and Algorithms Analysis Training for computer science students.
   * [YouTube-Playlists](#YouTube-Playlists)
 
 <br>
-<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
+<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg"></img>
 <br><br>
 
 ## [`Lectures`](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) 
 ### :bookmark_tabs: `1 Lecture` :clock4: `3 Hours` :card_index: `6 Sections` :pencil: `2 Quizzes` :paperclip: `15 Practices` 
 <br>
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/discrete-mathematics.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/discrete-mathematics.jpg"></img>
 <br>
 
 ### `Discrete Mathematics` Lectures
@@ -99,7 +95,7 @@ Data Structures and Algorithms Analysis Training for computer science students.
     </tbody>
 </table>
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg"></img>
 <br>
 
 ### `Data Structures` Lectures
@@ -157,7 +153,7 @@ Data Structures and Algorithms Analysis Training for computer science students.
     </tbody>
 </table>
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg"></img>
 <br>
 
 ### `Algorithms Analysis` Lectures
@@ -210,14 +206,14 @@ Data Structures and Algorithms Analysis Training for computer science students.
 </table>
 
 <br>
-<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
+<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg"></img>
 <br><br>
 
 ## [`Assignments`](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments)
 ### :bulb: `1 Assignment` :clock4: `10 Hours` :label: `10 Tasks`
 <br>
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg"></img>
 <br>
 
 ### `Data Structures` Assignments
@@ -269,7 +265,7 @@ Data Structures and Algorithms Analysis Training for computer science students.
     </tbody>
 </table>
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg"></img>
 <br>
 
 ### `Algorithms Analysis` Assignments
@@ -333,8 +329,7 @@ Data Structures and Algorithms Analysis Training for computer science students.
     </tbody>
 </table>
 
-<br>
-<br>
+<br><br>
 
 ## [`Educational-Projects`](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) 
 ### :video_game: `1 Project` :clock4: `10 Hours` :bookmark: `10 Tasks`
@@ -395,89 +390,61 @@ Data Structures and Algorithms Analysis Training for computer science students.
 
 <table>
     <tbody>
-            <tr>
-                <td align=center width="33%">
-<a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/discrete-mathematics/README.md">Schaum's Outline of Discrete Mathematics, Seymour Lipschutz
-<br><br>
-<img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Schaum's-Outline-of-Discrete-Mathematics-Seymour-Lipschutz.jpg">
-                </td>
-                <td align=center width="33%">
-<a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/discrete-mathematics/README.md">Discrete Mathematics and Its Applications, Kenneth Rosen
-<br><br>
-<img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Discrete-Mathematics-and-Its-Applications-Kenneth-Rosen.jpg">
-                </td>
-                <td align=center width="33%">
-<a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/discrete-mathematics/README.md">Fundamentals of Discrete Math for Computer Science, Tom Jenkyns
-<br><br>
-<img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Fundamentals-of-Discrete-Math-for-Computer-Science-Tom-Jenkyns.jpg">
-                </td>
-            </tr>
+        <tr>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/discrete-mathematics/README.md">Schaum's Outline of Discrete Mathematics, Seymour Lipschutz</a></td>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/discrete-mathematics/README.md">Discrete Mathematics and Its Applications, Kenneth Rosen</a></td>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/discrete-mathematics/README.md">Fundamentals of Discrete Math for Computer Science, Tom Jenkyns</a></td>
+        </tr>
+        <tr>
+<td align=center width="33%"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Schaum's-Outline-of-Discrete-Mathematics-Seymour-Lipschutz.jpg"></td>
+<td align=center width="33%"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Discrete-Mathematics-and-Its-Applications-Kenneth-Rosen.jpg"></td>
+<td align=center width="33%"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Fundamentals-of-Discrete-Math-for-Computer-Science-Tom-Jenkyns.jpg"></td>
+        </tr>
     </tbody>
 </table>
 
 <table>
     <tbody>
-            <tr>
-                <td align=center width="33%">
-<a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/discrete-mathematics/README.md">Discrete Mathematics An Open Introduction, Oscar Levin
-<br><br>
-<img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Discrete-Mathematics-An-Open-Introduction-Oscar-Levin.jpg">
-                </td>
-                <td align=center width="33%">
-<a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/discrete-mathematics/README.md">Mathematics for Computer Science, Eric Lehman
-<br><br>
-<img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Mathematics-for-Computer-Science-Eric-Lehman.jpg">
-                </td>
-                <td align=center width="33%">
-<a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/discrete-mathematics/README.md">Discrete Mathematics Using a Computer, John O'Donnell
-<br><br>
-<img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Discrete-Mathematics-Using-a-Computer-John-O'Donnell.jpg">
-                </td>
-            </tr>
+        <tr>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/discrete-mathematics/README.md">Discrete Mathematics An Open Introduction, Oscar Levin</a></td>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/discrete-mathematics/README.md">Mathematics for Computer Science, Eric Lehman</a></td>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/discrete-mathematics/README.md">Discrete Mathematics Using a Computer, John O'Donnell</a></td>
+        </tr>
+        <tr>
+<td align=center width="33%"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Discrete-Mathematics-An-Open-Introduction-Oscar-Levin.jpg"></td>
+<td align=center width="33%"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Mathematics-for-Computer-Science-Eric-Lehman.jpg"></td>
+<td align=center width="33%"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Discrete-Mathematics-Using-a-Computer-John-O'Donnell.jpg"></td>
+        </tr>
     </tbody>
 </table>
 
 <table>
     <tbody>
-            <tr>
-                <td align=center width="33%">
-<a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/discrete-mathematics/README.md">Discrete Mathematics for Computer Science, Gary Haggard
-<br><br>
-<img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Discrete-Mathematics-for-Computer-Science-Gary-Haggard.jpg">
-                </td>
-                <td align=center width="33%">
-<a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/discrete-mathematics/README.md">Discrete Mathematics for Computer Scientists, Clifford Stein
-<br><br>
-<img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Discrete-Mathematics-for-Computer-Scientists-Clifford-Stein.jpg">
-                </td>
-                <td align=center width="33%">
-<a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/discrete-mathematics/README.md">Discrete Mathematics TutorialsPoint
-<br><br>
-<img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Discrete-Mathematics-TutorialsPoint.jpg">
-                </td>
-            </tr>
+        <tr>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/discrete-mathematics/README.md">Discrete Mathematics for Computer Science, Gary Haggard</a></td>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/discrete-mathematics/README.md">Discrete Mathematics for Computer Scientists, Clifford Stein</a></td>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/discrete-mathematics/README.md">Discrete Mathematics TutorialsPoint</a></td>
+        </tr>
+        <tr>
+<td align=center width="33%"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Discrete-Mathematics-for-Computer-Science-Gary-Haggard.jpg"></td>
+<td align=center width="33%"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Discrete-Mathematics-for-Computer-Scientists-Clifford-Stein.jpg"></td>
+<td align=center width="33%"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Discrete-Mathematics-TutorialsPoint.jpg"></td>
+        </tr>
     </tbody>
 </table>
 
 <table>
     <tbody>
-            <tr>
-                <td align=center width="33%">
-<a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/discrete-mathematics/README.md">Elements of Discrete Mathematics, Richard H. Hammack
-<br><br>
-<img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Elements-of-Discrete-Mathematics-Richard-H.-Hammack.jpg">
-                </td>
-                <td align=center width="33%">
-<a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/discrete-mathematics/README.md">Discrete Math for Computer Science Students Ken Bogart
-<br><br>
-<img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Discrete-Math-for-Computer-Science-Students-Ken-Bogart.jpg">
-                </td>
-                <td align=center width="33%">
-<a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/discrete-mathematics/README.md">Notes on Discrete Mathematics, James Aspnes
-<br><br>
-<img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Notes-on-Discrete-Mathematics-James-Aspnes.jpg">
-                </td>
-            </tr>
+        <tr>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/discrete-mathematics/README.md">Elements of Discrete Mathematics, Richard H. Hammack</a></td>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/discrete-mathematics/README.md">Discrete Math for Computer Science Students Ken Bogart</a></td>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/discrete-mathematics/README.md">Notes on Discrete Mathematics, James Aspnes</a></td>
+        </tr>
+        <tr>
+<td align=center width="33%"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Elements-of-Discrete-Mathematics-Richard-H.-Hammack.jpg"></td>
+<td align=center width="33%"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Discrete-Math-for-Computer-Science-Students-Ken-Bogart.jpg"></td>
+<td align=center width="33%"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Notes-on-Discrete-Mathematics-James-Aspnes.jpg"></td>
+        </tr>
     </tbody>
 </table>
 <br>
@@ -489,63 +456,51 @@ Data Structures and Algorithms Analysis Training for computer science students.
 
 <table>
     <tbody>
-            <tr>
-                <td align=center width="33%">
-<a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/data-structures-and-algorithms-analysis/README.md">Introduction to Algorithms, Thomas H. Cormen<br><br>
-<img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Introduction-to-Algorithms-Thomas-H.-Cormen.jpg">
-                </td>
-                <td align=center width="33%">
-<a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/data-structures-and-algorithms-analysis/README.md">Data Structures and Algorithms Annotated Reference, Granville Barnett<br><br>
-<img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Data-Structures-and-Algorithms-Annotated-Reference-Granville-Barnett.jpg">
-                </td>
-                <td align=center width="33%">
-<a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/data-structures-and-algorithms-analysis/README.md">Analysis of Algorithms An Active Learning Approach, Jeffrey J. McConnell<br><br>
-<img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Analysis-of-Algorithms-An-Active-Learning-Approach-Jeffrey-J.-McConnell.jpg">
-                </td>
-            </tr>
+        <tr>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/data-structures-and-algorithms-analysis/README.md">Introduction to Algorithms, Thomas H. Cormen</a></td>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/data-structures-and-algorithms-analysis/README.md">Data Structures and Algorithms Annotated Reference, Granville Barnett</a></td>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/data-structures-and-algorithms-analysis/README.md">Analysis of Algorithms An Active Learning Approach, Jeffrey J. McConnell</a></td>
+        </tr>
+        <tr>
+<td align=center width="33%"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Introduction-to-Algorithms-Thomas-H.-Cormen.jpg"></td>
+<td align=center width="33%"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Data-Structures-and-Algorithms-Annotated-Reference-Granville-Barnett.jpg"></td>
+<td align=center width="33%"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Analysis-of-Algorithms-An-Active-Learning-Approach-Jeffrey-J.-McConnell.jpg"></td>
+        </tr>
     </tbody>
 </table>
 
 <table>
     <tbody>
-            <tr>
-                <td align=center width="33%">
-<a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/data-structures-and-algorithms-analysis/README.md">Competitive Programming 3, Steven Halim<br><br>
-<img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Competitive-Programming-3-Steven-Halim.jpg">
-                </td>
-                <td align=center width="33%">
-<a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/data-structures-and-algorithms-analysis/README.md">Guide to Competitive Programming, Antti Laaksonen<br><br>
-<img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Guide-to-Competitive-Programming-Antti-Laaksonen.jpg">
-                </td>
-                <td align=center width="33%">
-<a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/data-structures-and-algorithms-analysis/README.md">Fundamental of Algorithmics, Gilles Brassard and Paul Bartley<br><br>
-<img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Fundamental-of-Algorithmics-Gilles-Brassard-and-Paul-Bartley.jpg">
-                </td>
-            </tr>
+        <tr>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/data-structures-and-algorithms-analysis/README.md">Competitive Programming 3, Steven Halim</a></td>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/data-structures-and-algorithms-analysis/README.md">Guide to Competitive Programming, Antti Laaksonen</a></td>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/data-structures-and-algorithms-analysis/README.md">Fundamental of Algorithmics, Gilles Brassard and Paul Bartley</a></td>
+        </tr>
+        <tr>
+<td align=center width="33%"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Competitive-Programming-3-Steven-Halim.jpg"></td>
+<td align=center width="33%"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Guide-to-Competitive-Programming-Antti-Laaksonen.jpg"></td>
+<td align=center width="33%"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Fundamental-of-Algorithmics-Gilles-Brassard-and-Paul-Bartley.jpg"></td>
+        </tr>
     </tbody>
 </table>
 
 <table>
     <tbody>
-            <tr>
-                <td align=center width="33%">
-<a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/data-structures-and-algorithms-analysis/README.md">Grokking Algorithms, Aditya Y. Bhargava<br><br>
-<img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Grokking-Algorithms-Aditya-Y.-Bhargava.jpg">
-                </td>
-                <td align=center width="33%">
-<a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/data-structures-and-algorithms-analysis/README.md">Introduction to the Design and Analysis of Algorithms, Anany V. Levitin<br><br>
-<img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Introduction-to-the-Design-and-Analysis-of-Algorithms-Anany-V.-Levitin.jpg">
-                </td>
-                <td align=center width="33%">
-<a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/data-structures-and-algorithms-analysis/README.md">Data Structures and Algorithms TutorialsPoint<br><br>
-<img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Data-Structures-and-Algorithms-TutorialsPoint.jpg">
-                </td>
-            </tr>
+        <tr>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/data-structures-and-algorithms-analysis/README.md">Grokking Algorithms, Aditya Y. Bhargava</a></td>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/data-structures-and-algorithms-analysis/README.md">Introduction to the Design and Analysis of Algorithms, Anany V. Levitin</a></td>
+<td align=center width="33%"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/data-structures-and-algorithms-analysis/README.md">Data Structures and Algorithms TutorialsPoint</a></td>
+        </tr>
+        <tr>
+<td align=center width="33%"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Data-Structures-and-Algorithms-TutorialsPoint.jpg"></td>
+<td align=center width="33%"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Introduction-to-the-Design-and-Analysis-of-Algorithms-Anany-V.-Levitin.jpg"></td>
+<td align=center width="33%"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Grokking-Algorithms-Aditya-Y.-Bhargava.jpg"></td>
+        </tr>
     </tbody>
 </table>
 
 <br>
-<img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg">
+<img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg"></img>
 
 ## [`Coursera-Specializations`](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md)
 
@@ -738,6 +693,6 @@ Geometric Algorithms by EIT Digital
     </table>
 
 <br>
-<img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
+<img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg"></img>
 
 ## [`YouTube-Playlists`](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md)
