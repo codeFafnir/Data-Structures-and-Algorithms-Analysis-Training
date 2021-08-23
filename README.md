@@ -54,7 +54,6 @@ Data Structures and Algorithms Analysis Training for computer science students.
     </tbody>
 </table>
 
-
 ### :pencil2: :page_facing_up: :ledger:  `keep writing your notes and enjoy learning`
 
 <br>
