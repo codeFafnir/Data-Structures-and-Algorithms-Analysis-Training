@@ -565,3 +565,88 @@ Data Structures and Algorithms Analysis Training for computer science students.
 <img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg"></img>
 
 ## [`YouTube-Playlists`](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md)
+
+<table>
+    <tbody>
+        <tr>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">MIT OpenCourseWare Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Tutorials Point (India) Ltd Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">nptelhrd Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Neso Academy Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">mycodeschool Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Gate Lectures by Ravindrababu Ravula Playlists</a></td>
+        </tr>
+        <tr>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/MIT%20OpenCourseWare.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Tutorials%20Point%20(India)%20Ltd.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/nptelhrd.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Neso%20Academy.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/mycodeschool.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Gate%20Lectures%20by%20Ravindrababu%20Ravula.jpg" width="200"></img></td>
+        </tr>
+        <tr>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Gate Smashers Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Education 4u Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Jennys lectures CS-IT NET&JRF Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Easy Engineering Classes Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">KNOWLEDGE GATE Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">GeeksforGeeks Playlists</a></td>
+        </tr>
+        <tr>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Gate%20Smashers.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Education%204u.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Jennys%20lectures%20CS-IT%20NET&JRF.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Easy%20Engineering%20Classes.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/KNOWLEDGE%20GATE.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/GeeksforGeeks.jpg" width="200"></img></td>
+        </tr>
+        <tr>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Sundeep Saradhi Kanthety Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">5 Minutes Engineering Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Tushar Roy - Coding Made Simple Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Back To Back SWE Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Simple Snippets Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">TheTrevTutor Playlists</a></td>
+        </tr>
+        <tr>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Sundeep%20Saradhi%20Kanthety.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/5%20Minutes%20Engineering.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Tushar%20Roy%20-%20Coding%20Made%20Simple.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Back%20To%20Back%20SWE.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Simple%20Snippets.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/TheTrevTutor.jpg" width="200"></img></td>
+        </tr>
+        <tr>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Unacademy Computer Science Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">WilliamFiset Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Knowledge Center Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">TECH DOSE Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Vivekanand Khyade - Algorithm Every Day Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Sarada Herke Playlists</a></td>
+        </tr>
+        <tr>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Unacademy%20Computer%20Science.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/WilliamFiset.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Knowledge%20Center.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/TECH%20DOSE.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Vivekanand%20Khyade%20-%20Algorithm%20Every%20Day.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Sarada%20Herke.jpg" width="200"></img></td>
+        </tr>
+        <tr>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Byte by Byte Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Nargish Gupta Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Code Ncode Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Exam Aasaan Hai Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Dinesh Varyani Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md">Coding Simplified Playlists</a></td>
+        </tr>
+        <tr>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Byte%20by%20Byte.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Nargish%20Gupta.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Code%20Ncode.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Exam%20Aasaan%20Hai.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Dinesh%20Varyani.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Coding%20Simplified.jpg" width="200"></img></td>
+        </tr>
+    </tbody>
+</table>
