@@ -9,14 +9,14 @@ Data Structures and Algorithms Analysis Training Lectures for computer science s
 
 ## Table of Contents
   * [Discrete Mathematics Lectures](#Discrete-Mathematics-Lectures)
-    * [Module 1 Proofs and Structures](#Module-1-Proofs-and-Structures)
-    * [Module 2 Graphs and Trees](#Module-2-Graphs-and-Trees)
+    * [Module 1: Proofs and Structures](#Module-1-Proofs-and-Structures)
+    * [Module 2: Graphs and Trees](#Module-2-Graphs-and-Trees)
   * [Data Structures Lectures](#Data-Structures-Lectures)
-    * [Module 1 Linear Data Structures](#Module-1-Linear-Data-Structures)
-    * [Module 2 Non-Linear Data Structures](#Module-2-Non-Linear-Data-Structures)
+    * [Module 1: Linear Data Structures](#Module-1-Linear-Data-Structures)
+    * [Module 2: Non-Linear Data Structures](#Module-2-Non-Linear-Data-Structures)
   * [Algorithms Analysis Lectures](#Algorithms-Analysis-Lectures)
-    * [Module 1 Basic Algorithms](#Module-1-Basic-Algorithms)
-    * [Module 2 Graph Algorithms and Dynamic Programming](#Module-2-Graph-Algorithms-and-Dynamic-Programming)
+    * [Module 1: Basic Algorithms](#Module-1-Basic-Algorithms)
+    * [Module 2: Graph Algorithms and Dynamic Programming](#Module-2-Graph-Algorithms-and-Dynamic-Programming)
 
 <br>
 <img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
