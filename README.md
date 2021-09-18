@@ -280,13 +280,13 @@ Data Structures and Algorithms Analysis Training for computer science students.
             <td align=center width="125px">Assignment 03</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">String Problems II in Codeforces</a></td>
             <td align=center width="125px">Assignment 09</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Non-Linear Data Structures Problems in HackerEarth</a></td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Non-Linear Data Structures Problems I in HackerEarth</a></td>
         </tr>
         <tr>
             <td align=center width="125px">Assignment 04</td>
             <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Data Structures Problems II in Codeforces</a></td>
             <td align=center width="125px">Assignment 10</td>
-            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Hash Tables Problems in HackerEarth</a></td>
+            <td align=left width="425px"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments">Non-Linear Data Structures Problems II in HackerEarth</a></td>
         </tr>
         <tr>
             <td align=center width="125px">Assignment 05</td>
