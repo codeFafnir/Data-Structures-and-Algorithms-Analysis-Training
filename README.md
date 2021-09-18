@@ -430,11 +430,6 @@ Data Structures and Algorithms Analysis Training for computer science students.
 <td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Discrete-Mathematics-and-Its-Applications-Kenneth-Rosen.jpg"></td>
 <td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Fundamentals-of-Discrete-Math-for-Computer-Science-Tom-Jenkyns.jpg"></td>
         </tr>
-    </tbody>
-</table>
-
-<table>
-    <tbody>
         <tr>
 <td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/discrete-mathematics/README.md">Discrete Mathematics An Open Introduction, Oscar Levin</a></td>
 <td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/discrete-mathematics/README.md">Mathematics for Computer Science, Eric Lehman</a></td>
@@ -445,11 +440,6 @@ Data Structures and Algorithms Analysis Training for computer science students.
 <td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Mathematics-for-Computer-Science-Eric-Lehman.jpg"></td>
 <td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Discrete-Mathematics-Using-a-Computer-John-O'Donnell.jpg"></td>
         </tr>
-    </tbody>
-</table>
-
-<table>
-    <tbody>
         <tr>
 <td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/discrete-mathematics/README.md">Discrete Mathematics for Computer Science, Gary Haggard</a></td>
 <td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/discrete-mathematics/README.md">Discrete Mathematics for Computer Scientists, Clifford Stein</a></td>
@@ -482,11 +472,6 @@ Data Structures and Algorithms Analysis Training for computer science students.
 <td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Data-Structures-and-Algorithms-Annotated-Reference-Granville-Barnett.jpg"></td>
 <td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Analysis-of-Algorithms-An-Active-Learning-Approach-Jeffrey-J.-McConnell.jpg"></td>
         </tr>
-    </tbody>
-</table>
-
-<table>
-    <tbody>
         <tr>
 <td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/data-structures-and-algorithms-analysis/README.md">Competitive Programming 3, Steven Halim</a></td>
 <td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/data-structures-and-algorithms-analysis/README.md">Guide to Competitive Programming, Antti Laaksonen</a></td>
@@ -497,11 +482,6 @@ Data Structures and Algorithms Analysis Training for computer science students.
 <td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Guide-to-Competitive-Programming-Antti-Laaksonen.jpg"></td>
 <td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Fundamental-of-Algorithmics-Gilles-Brassard-and-Paul-Bartley.jpg"></td>
         </tr>
-    </tbody>
-</table>
-
-<table>
-    <tbody>
         <tr>
 <td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/data-structures-and-algorithms-analysis/README.md">Grokking Algorithms, Aditya Y. Bhargava</a></td>
 <td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/data-structures-and-algorithms-analysis/README.md">Introduction to the Design and Analysis of Algorithms, Anany V. Levitin</a></td>
