@@ -373,7 +373,7 @@ Data Structures and Algorithms Analysis Training for computer science students.
 ### :video_game: `1 Project` :clock4: `10 Hours` :bookmark: `10 Tasks`
 <br>
 
-<img align="middle" width="900" height="225" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/educational-projects.jpg">
+<img align="middle" width="100%" height="225" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/educational-projects.jpg">
 
 | [Equation Solver](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) | [Zuma Game](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) | [Snake Game](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) | [Ball Sort Game](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) |
 |:----:|:----:|:----:|:----:|
