@@ -8,10 +8,10 @@ void print_array(int arr[], int n) {
 }
 
 void merge(int arr[], int f, int m, int e) {
-    int temp[e - f + 1], i=0;
-    int st1 = f, st2 = m + 1;
+    int temp[e - f + 1];
+    int i = 0, st1 = f, st2 = m + 1;
     while (st1 <= m && st2 <= e) {
-        if (arr[st1] < arr[st2]) {
+        if (arr[st1] <= arr[st2]) {
             temp[i] = arr[st1];
             i = i + 1;
             st1 = st1 + 1;
