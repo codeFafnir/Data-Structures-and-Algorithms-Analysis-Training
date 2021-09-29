@@ -375,7 +375,6 @@ Data Structures and Algorithms Analysis Training for computer science students.
 
 <img align="middle" width="100%" height="225" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/educational-projects.jpg">
 
-
 <table>
     <tbody>
         <tr>
@@ -385,10 +384,10 @@ Data Structures and Algorithms Analysis Training for computer science students.
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md">Ball Sort Game</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/equation-solver.jpg" width="200"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/zuma-game.jpg" width="200"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/snake-game.jpg" width="200"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/ball-sort-game.jpg" width="200"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/equation-solver.jpg" width="250"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/zuma-game.jpg" width="250"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/snake-game.jpg" width="250"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/ball-sort-game.jpg" width="250"></img></td>
         </tr>
         <tr>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md">Merge Block Game</a></td>
@@ -397,10 +396,10 @@ Data Structures and Algorithms Analysis Training for computer science students.
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md">Bingo Game</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/merge-block-game.jpg" width="200"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/word-search-game.jpg" width="200"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/hangman-game.jpg" width="200"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/bingo-game.jpg" width="200"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/merge-block-game.jpg" width="250"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/word-search-game.jpg" width="250"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/hangman-game.jpg" width="250"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/bingo-game.jpg" width="250"></img></td>
         </tr>
         <tr>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md">Dice Magic Game</a></td>
@@ -409,10 +408,10 @@ Data Structures and Algorithms Analysis Training for computer science students.
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md">Mills Game</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/dice-magic-game.jpg" width="200"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/merge-wood-game.jpg" width="200"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/garam-game.jpg" width="200"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/mills-game.jpg" width="200"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/dice-magic-game.jpg" width="250"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/merge-wood-game.jpg" width="250"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/garam-game.jpg" width="250"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/mills-game.jpg" width="250"></img></td>
         </tr>
         <tr>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md">Blokus Game</a></td>
@@ -421,10 +420,10 @@ Data Structures and Algorithms Analysis Training for computer science students.
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md">Dropdom Game</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/blokus-game.jpg" width="200"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/blockudoku-game.jpg" width="200"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cube-block-game.jpg" width="200"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/dropdom-game.jpg" width="200"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/blokus-game.jpg" width="250"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/blockudoku-game.jpg" width="250"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/cube-block-game.jpg" width="250"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/dropdom-game.jpg" width="250"></img></td>
         </tr>
         <tr>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md"></a></td>
@@ -433,10 +432,10 @@ Data Structures and Algorithms Analysis Training for computer science students.
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md"></a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="200"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="200"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="200"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="200"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="250"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="250"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="250"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="250"></img></td>
         </tr>
         <tr>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md">8 Queens Game</a></td>
@@ -445,10 +444,10 @@ Data Structures and Algorithms Analysis Training for computer science students.
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md">Chess Game</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/8-queens-game.jpg" width="200"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/knights-tour-game.jpg" width="200"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/chess-endgame-game.jpg" width="200"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/chess-game.jpg" width="200"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/8-queens-game.jpg" width="250"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/knights-tour-game.jpg" width="250"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/chess-endgame-game.jpg" width="250"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/chess-game.jpg" width="250"></img></td>
         </tr>
         <tr>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md">Maze Game</a></td>
@@ -457,10 +456,10 @@ Data Structures and Algorithms Analysis Training for computer science students.
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md">Bubble Poke Game</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/maze-game.jpg" width="200"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/pacman-game.jpg" width="200"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/fruit-master-game.jpg" width="200"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/bubble-poke-game.jpg" width="200"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/maze-game.jpg" width="250"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/pacman-game.jpg" width="250"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/fruit-master-game.jpg" width="250"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/bubble-poke-game.jpg" width="250"></img></td>
         </tr>
         <tr>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md">Spots Connect Game</a></td>
@@ -469,10 +468,10 @@ Data Structures and Algorithms Analysis Training for computer science students.
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md">Alphago Game</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/spots-connect-game.jpg" width="200"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/make-10-drop-game.jpg" width="200"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/2248-game.jpg" width="200"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/alphago-game.jpg" width="200"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/spots-connect-game.jpg" width="250"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/make-10-drop-game.jpg" width="250"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/2248-game.jpg" width="250"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/alphago-game.jpg" width="250"></img></td>
         </tr>
         <tr>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md">Fill Line Game</a></td>
@@ -481,10 +480,10 @@ Data Structures and Algorithms Analysis Training for computer science students.
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md">Water Pipes Game</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/fill-line-game.jpg" width="200"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/flow-free-game.jpg" width="200"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/puzzle-pipe-game.jpg" width="200"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/water-pipes-game.jpg" width="200"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/fill-line-game.jpg" width="250"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/flow-free-game.jpg" width="250"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/puzzle-pipe-game.jpg" width="250"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/water-pipes-game.jpg" width="250"></img></td>
         </tr>
         <tr>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md"></a></td>
@@ -493,10 +492,10 @@ Data Structures and Algorithms Analysis Training for computer science students.
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md"></a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="200"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="200"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="200"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="200"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="250"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="250"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="250"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/" width="250"></img></td>
         </tr>
     </tbody>
 </table>
